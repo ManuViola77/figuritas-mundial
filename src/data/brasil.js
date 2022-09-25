@@ -1,100 +1,100 @@
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
-import yannSommer from "./assets/brasil/.png";
+import alexSandro from "./assets/brasil/alex-sandro.png";
+import alisson from "./assets/brasil/alisson.png";
+import casemiro from "./assets/brasil/casemiro.png";
+import danilo from "./assets/brasil/danilo.png";
+import escudoBrasil from "./assets/brasil/escudo-brasil.png";
+import fred from "./assets/brasil/fred.png";
+import gabrielJesus from "./assets/brasil/gabriel-jesus.png";
+import lucasPaqueta from "./assets/brasil/lucas-paqueta.png";
+import marquinhos from "./assets/brasil/marquinhos.png";
+import neymarJr from "./assets/brasil/neymar-jr.png";
+import thiagoSilva from "./assets/brasil/thiago-silva.png";
+import viniciusJr from "./assets/brasil/vinicius-jr.png";
 
 const brasil = [
   {
     id: 0,
-    image: "",
+    image: escudoBrasil,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Brasil",
   },
   {
     id: 1,
-    image: "",
+    image: alisson,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alisson",
   },
   {
     id: 2,
-    image: "",
+    image: alexSandro,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alex Sandro",
   },
   {
     id: 3,
-    image: "",
+    image: danilo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Danilo",
   },
   {
     id: 4,
-    image: "",
+    image: marquinhos,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Marquinhos",
   },
   {
     id: 5,
-    image: "",
+    image: thiagoSilva,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Thiago Silva",
   },
   {
     id: 6,
-    image: "",
+    image: casemiro,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Casemiro",
   },
   {
     id: 7,
-    image: "",
+    image: fred,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Fred",
   },
   {
     id: 8,
-    image: "",
+    image: lucasPaqueta,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Lucas Paqueta",
   },
   {
     id: 9,
-    image: "",
+    image: gabrielJesus,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Gabriel Jesus",
   },
   {
     id: 10,
-    image: "",
+    image: neymarJr,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Neymar Jr",
   },
   {
     id: 11,
-    image: "",
+    image: viniciusJr,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Vinicius Jr",
   },
 ];
 

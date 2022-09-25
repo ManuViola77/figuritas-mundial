@@ -1,100 +1,100 @@
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
-import yannSommer from "./assets/camerun/.png";
+import andreFrank from "./assets/camerun/andre-frank-zambo-anguissa.png";
+import andreOnana from "./assets/camerun/andre-onana.png";
+import collinsFai from "./assets/camerun/collins-fai.png";
+import ericMaxim from "./assets/camerun/eric-maxim-choupo-moting.png";
+import escudoCamerun from "./assets/camerun/escudo-camerun.png";
+import jeanCharlesCastelletto from "./assets/camerun/jean-charles-castelletto.png";
+import karlTokoEkambi from "./assets/camerun/karl-toko-ekambi.png";
+import michaelNgadeu from "./assets/camerun/michael-ngadeu.png";
+import nicolasMoumiNgamaleu from "./assets/camerun/nicolas-moumi-ngamaleu.png";
+import nouhou from "./assets/camerun/nouhou.png";
+import samuelOumGouet from "./assets/camerun/samuel-oum-gouet.png";
+import vincentAboubakar from "./assets/camerun/vincent-aboubakar.png";
 
 const camerun = [
   {
     id: 0,
-    image: "",
+    image: escudoCamerun,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Camerun",
   },
   {
     id: 1,
-    image: "",
+    image: andreOnana,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Andre Onana",
   },
   {
     id: 2,
-    image: "",
+    image: jeanCharlesCastelletto,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jean Charles Castelletto",
   },
   {
     id: 3,
-    image: "",
+    image: collinsFai,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Collins Fai",
   },
   {
     id: 4,
-    image: "",
+    image: michaelNgadeu,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Michael Ngadeu",
   },
   {
     id: 5,
-    image: "",
+    image: nouhou,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nouhou",
   },
   {
     id: 6,
-    image: "",
+    image: samuelOumGouet,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Samuel Oum Gouet",
   },
   {
     id: 7,
-    image: "",
+    image: andreFrank,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Andre Frank Zambo Anguissa",
   },
   {
     id: 8,
-    image: "",
+    image: vincentAboubakar,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Vincent Aboubakar",
   },
   {
     id: 9,
-    image: "",
+    image: ericMaxim,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Eric Maxim Choupo Moting",
   },
   {
     id: 10,
-    image: "",
+    image: nicolasMoumiNgamaleu,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nicolas Moumi Ngamaleu",
   },
   {
     id: 11,
-    image: "",
+    image: karlTokoEkambi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Karl Toko Ekambi",
   },
 ];
 

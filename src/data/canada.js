@@ -1,100 +1,100 @@
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
-import yannSommer from "./assets/canada/.png";
+import alistairJohnston from "./assets/canada/alistair-johnston.png";
+import alphonsoDavies from "./assets/canada/alphonso-davies.png";
+import atibaHutchinson from "./assets/canada/atiba-hutchinson.png";
+import cyleLarin from "./assets/canada/cyle-larin.png";
+import escudoCanada from "./assets/canada/escudo-canada.png";
+import jonathanDavid from "./assets/canada/jonathan-david.png";
+import kamalMiller from "./assets/canada/kamal-miller.png";
+import milanBorjan from "./assets/canada/milan-borjan.png";
+import richieLaryea from "./assets/canada/richie-laryea.png";
+import stephenEustaquio from "./assets/canada/stephen-eustaquio.png";
+import stevenVitoria from "./assets/canada/steven-vitoria.png";
+import tajonBuchanan from "./assets/canada/tajon-buchanan.png";
 
 const canada = [
   {
     id: 0,
-    image: "",
+    image: escudoCanada,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Canada",
   },
   {
     id: 1,
-    image: "",
+    image: milanBorjan,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Milan Borjan",
   },
   {
     id: 2,
-    image: "",
+    image: alistairJohnston,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alistair Johnston",
   },
   {
     id: 3,
-    image: "",
+    image: richieLaryea,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Richie Laryea",
   },
   {
     id: 4,
-    image: "",
+    image: kamalMiller,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kamal Miller",
   },
   {
     id: 5,
-    image: "",
+    image: stevenVitoria,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Steven Vitoria",
   },
   {
     id: 6,
-    image: "",
+    image: tajonBuchanan,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Tajon Buchanan",
   },
   {
     id: 7,
-    image: "",
+    image: alphonsoDavies,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alphonso Davies",
   },
   {
     id: 8,
-    image: "",
+    image: stephenEustaquio,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Stephen Eustaquio",
   },
   {
     id: 9,
-    image: "",
+    image: atibaHutchinson,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Atiba Hutchinson",
   },
   {
     id: 10,
-    image: "",
+    image: jonathanDavid,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jonathan David",
   },
   {
     id: 11,
-    image: "",
+    image: cyleLarin,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Cyle Larin",
   },
 ];
 
