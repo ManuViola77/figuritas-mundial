@@ -1,87 +1,100 @@
+import antonioRudiger from "./assets/alemania/antonio-rudiger.png";
+import davidRaum from "./assets/alemania/david-raum.png";
+import escudoAlemania from "./assets/alemania/escudo-alemania.png";
+import joshuaKimmich from "./assets/alemania/joshua-kimmich.png";
+import kaiHavertz from "./assets/alemania/kai-havertz.png";
+import leonGortzka from "./assets/alemania/leon-gortzka.png";
+import manuelNeuer from "./assets/alemania/manuel-neuer.png";
+import niklasSule from "./assets/alemania/niklas-sule.png";
+import sergeGnabry from "./assets/alemania/serge-gnabry.png";
+import thiloKehrer from "./assets/alemania/thilo-kehrer.png";
+import thomasMuller from "./assets/alemania/thomas-muller.png";
+import timoWerner from "./assets/alemania/timo-werner.png";
+
 const alemania = [
   {
     id: 0,
-    image: "",
+    image: escudoAlemania,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Alemania",
   },
   {
     id: 1,
-    image: "",
+    image: manuelNeuer,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Manuel Neuer",
   },
   {
     id: 2,
-    image: "",
+    image: thiloKehrer,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Thilo Kehrer",
   },
   {
     id: 3,
-    image: "",
+    image: davidRaum,
     have: false,
     haveGold: false,
-    name: "",
+    name: "David Raum",
   },
   {
     id: 4,
-    image: "",
+    image: antonioRudiger,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Antonio Rudiger",
   },
   {
     id: 5,
-    image: "",
+    image: niklasSule,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Niklas Sule",
   },
   {
     id: 6,
-    image: "",
+    image: leonGortzka,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Leon Gortzka",
   },
   {
     id: 7,
-    image: "",
+    image: kaiHavertz,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kai Havertz",
   },
   {
     id: 8,
-    image: "",
+    image: joshuaKimmich,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joshua Kimmich",
   },
   {
     id: 9,
-    image: "",
+    image: sergeGnabry,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Serge Gnabry",
   },
   {
     id: 10,
-    image: "",
+    image: thomasMuller,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Thomas Muller",
   },
   {
     id: 11,
-    image: "",
+    image: timoWerner,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Timo Werner",
   },
 ];
 

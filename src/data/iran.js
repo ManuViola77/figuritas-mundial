@@ -1,3 +1,16 @@
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+import yannSommer from "./assets/iran/.png";
+
 const iran = [
   {
     id: 0,

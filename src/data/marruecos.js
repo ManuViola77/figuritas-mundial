@@ -1,3 +1,16 @@
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+import yannSommer from "./assets/marruecos/.png";
+
 const marruecos = [
   {
     id: 0,

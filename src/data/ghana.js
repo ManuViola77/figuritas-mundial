@@ -1,3 +1,16 @@
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+import yannSommer from "./assets/ghana/.png";
+
 const ghana = [
   {
     id: 0,

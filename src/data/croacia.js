@@ -1,3 +1,16 @@
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+import yannSommer from "./assets/croacia/.png";
+
 const croacia = [
   {
     id: 0,

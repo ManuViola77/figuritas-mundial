@@ -1,3 +1,16 @@
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+import yannSommer from "./assets/corea/.png";
+
 const corea = [
   {
     id: 0,

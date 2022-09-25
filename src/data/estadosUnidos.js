@@ -1,3 +1,16 @@
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+import yannSommer from "./assets/estadosUnidos/.png";
+
 const estadosUnidos = [
   {
     id: 0,

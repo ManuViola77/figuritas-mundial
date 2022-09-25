@@ -1,3 +1,16 @@
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+import yannSommer from "./assets/ecuador/.png";
+
 const ecuador = [
   {
     id: 0,

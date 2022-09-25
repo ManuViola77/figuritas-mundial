@@ -1,3 +1,16 @@
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+import yannSommer from "./assets/senegal/.png";
+
 const senegal = [
   {
     id: 0,

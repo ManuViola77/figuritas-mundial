@@ -1,3 +1,16 @@
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+import yannSommer from "./assets/polonia/.png";
+
 const polonia = [
   {
     id: 0,

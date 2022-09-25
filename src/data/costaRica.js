@@ -1,3 +1,16 @@
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+import yannSommer from "./assets/costaRica/.png";
+
 const costaRica = [
   {
     id: 0,

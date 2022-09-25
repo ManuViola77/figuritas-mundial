@@ -1,3 +1,16 @@
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+import yannSommer from "./assets/camerun/.png";
+
 const camerun = [
   {
     id: 0,

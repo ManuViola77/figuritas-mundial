@@ -1,3 +1,16 @@
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+import yannSommer from "./assets/holanda/.png";
+
 const holanda = [
   {
     id: 0,

@@ -1,3 +1,16 @@
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+import yannSommer from "./assets/espana/.png";
+
 const espana = [
   {
     id: 0,

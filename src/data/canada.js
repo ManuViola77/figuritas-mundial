@@ -1,3 +1,16 @@
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+import yannSommer from "./assets/canada/.png";
+
 const canada = [
   {
     id: 0,

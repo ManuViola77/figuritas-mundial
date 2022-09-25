@@ -1,3 +1,16 @@
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+import yannSommer from "./assets/portugal/.png";
+
 const portugal = [
   {
     id: 0,

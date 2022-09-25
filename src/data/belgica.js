@@ -1,3 +1,16 @@
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+import yannSommer from "./assets/belgica/.png";
+
 const belgica = [
   {
     id: 0,

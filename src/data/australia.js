@@ -1,87 +1,100 @@
+import aaronMooy from "./assets/australia/aaron-mooy.png";
+import ajdinHrustic from "./assets/australia/ajdin-hrustic.png";
+import azizBehich from "./assets/australia/aziz-behich.png";
+import escudoAustralia from "./assets/australia/escudo-australia.png";
+import harrySouttar from "./assets/australia/harry-souttar.png";
+import jacksonIrvine from "./assets/australia/jackson-irvine.png";
+import martinBoyle from "./assets/australia/martin-boyle.png";
+import mathewLeckie from "./assets/australia/mathew-leckie.png";
+import mathewRyan from "./assets/australia/mathew-ryan.png";
+import mitchellDuke from "./assets/australia/mitchell-duke.png";
+import rhyanGrant from "./assets/australia/rhyan-grant.png";
+import trentSainsbury from "./assets/australia/trent-sainsbury.png";
+
 const australia = [
   {
     id: 0,
-    image: "",
+    image: escudoAustralia,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Australia",
   },
   {
     id: 1,
-    image: "",
+    image: mathewRyan,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mathew Ryan",
   },
   {
     id: 2,
-    image: "",
+    image: azizBehich,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aziz Behich",
   },
   {
     id: 3,
-    image: "",
+    image: rhyanGrant,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Rhyan Grant",
   },
   {
     id: 4,
-    image: "",
+    image: trentSainsbury,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Trent Sainsbury",
   },
   {
     id: 5,
-    image: "",
+    image: harrySouttar,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Harry Souttar",
   },
   {
     id: 6,
-    image: "",
+    image: ajdinHrustic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ajdin Hrustic",
   },
   {
     id: 7,
-    image: "",
+    image: jacksonIrvine,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jackson Irvine",
   },
   {
     id: 8,
-    image: "",
+    image: aaronMooy,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aaron Mooy",
   },
   {
     id: 9,
-    image: "",
+    image: martinBoyle,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Martin Boyle",
   },
   {
     id: 10,
-    image: "",
+    image: mitchellDuke,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mitchell Duke",
   },
   {
     id: 11,
-    image: "",
+    image: mathewLeckie,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mathew Leckie",
   },
 ];
 

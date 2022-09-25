@@ -1,3 +1,16 @@
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+import yannSommer from "./assets/inglaterra/.png";
+
 const inglaterra = [
   {
     id: 0,

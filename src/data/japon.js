@@ -1,3 +1,16 @@
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+import yannSommer from "./assets/japon/.png";
+
 const japon = [
   {
     id: 0,

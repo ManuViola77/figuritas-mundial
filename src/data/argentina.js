@@ -1,87 +1,100 @@
+import angelDiMaria from "./assets/argentina/angel-di-maria.png";
+import cristianRomero from "./assets/argentina/cristian-romero.png";
+import emilianoMartinez from "./assets/argentina/emiliano-martinez.png";
+import escudoArgentina from "./assets/argentina/escudo-argentina.png";
+import giovaniLoCelso from "./assets/argentina/giovani-lo-celso.png";
+import lautaroMartinez from "./assets/argentina/lautaro-martinez.png";
+import leandroParedes from "./assets/argentina/leandro-paredes.png";
+import lionelMessi from "./assets/argentina/lionel-messi.png";
+import marcosAcuna from "./assets/argentina/marcos-acuna.png";
+import nahuelMolina from "./assets/argentina/nahuel-molina.png";
+import nicolasOtamendi from "./assets/argentina/nicolas-otamendi.png";
+import rodrigoDePaul from "./assets/argentina/rodrigo-de-paul.png";
+
 const argentina = [
   {
     id: 0,
-    image: "",
+    image: escudoArgentina,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Argentina",
   },
   {
     id: 1,
-    image: "",
+    image: emilianoMartinez,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Emiliano Martinez",
   },
   {
     id: 2,
-    image: "",
+    image: marcosAcuna,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Marcos Acuna",
   },
   {
     id: 3,
-    image: "",
+    image: nahuelMolina,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nahuel Molina",
   },
   {
     id: 4,
-    image: "",
+    image: nicolasOtamendi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nicolas Otamendi",
   },
   {
     id: 5,
-    image: "",
+    image: cristianRomero,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Cristian Romero",
   },
   {
     id: 6,
-    image: "",
+    image: rodrigoDePaul,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Rodrigo De Paul",
   },
   {
     id: 7,
-    image: "",
+    image: angelDiMaria,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Angel Di Maria",
   },
   {
     id: 8,
-    image: "",
+    image: giovaniLoCelso,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Giovani Lo Celso",
   },
   {
     id: 9,
-    image: "",
+    image: leandroParedes,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Leandro Paredes",
   },
   {
     id: 10,
-    image: "",
+    image: lautaroMartinez,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Lautaro Martinez",
   },
   {
     id: 11,
-    image: "",
+    image: lionelMessi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Lionel Messi",
   },
 ];
 

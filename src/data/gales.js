@@ -1,3 +1,16 @@
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+import yannSommer from "./assets/gales/.png";
+
 const gales = [
   {
     id: 0,

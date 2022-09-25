@@ -1,3 +1,16 @@
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+import yannSommer from "./assets/dinamarca/.png";
+
 const dinamarca = [
   {
     id: 0,

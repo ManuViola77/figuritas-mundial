@@ -1,3 +1,16 @@
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+import yannSommer from "./assets/francia/.png";
+
 const francia = [
   {
     id: 0,
