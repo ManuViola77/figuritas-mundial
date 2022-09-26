@@ -1,15 +1,15 @@
-import alexSandro from "./assets/brasil/alex-sandro.png";
-import alisson from "./assets/brasil/alisson.png";
-import casemiro from "./assets/brasil/casemiro.png";
-import danilo from "./assets/brasil/danilo.png";
-import escudoBrasil from "./assets/brasil/escudo-brasil.png";
-import fred from "./assets/brasil/fred.png";
-import gabrielJesus from "./assets/brasil/gabriel-jesus.png";
-import lucasPaqueta from "./assets/brasil/lucas-paqueta.png";
-import marquinhos from "./assets/brasil/marquinhos.png";
-import neymarJr from "./assets/brasil/neymar-jr.png";
-import thiagoSilva from "./assets/brasil/thiago-silva.png";
-import viniciusJr from "./assets/brasil/vinicius-jr.png";
+import alexSandro from "../assets/Brasil/alex-sandro.png";
+import alisson from "../assets/Brasil/alisson.png";
+import casemiro from "../assets/Brasil/casemiro.png";
+import danilo from "../assets/Brasil/danilo.png";
+import escudoBrasil from "../assets/Brasil/escudo-brasil.png";
+import fred from "../assets/Brasil/fred.png";
+import gabrielJesus from "../assets/Brasil/gabriel-jesus.png";
+import lucasPaqueta from "../assets/Brasil/lucas-paqueta.png";
+import marquinhos from "../assets/Brasil/marquinhos.png";
+import neymarJr from "../assets/Brasil/neymar-jr.png";
+import thiagoSilva from "../assets/Brasil/thiago-silva.png";
+import viniciusJr from "../assets/Brasil/vinicius-jr.png";
 
 const brasil = [
   {

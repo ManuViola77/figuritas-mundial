@@ -1,15 +1,15 @@
-import bernardoSilva from "./assets/portugal/bernardo-silva.png";
-import brunoFernandes from "./assets/portugal/bruno-fernandes.png";
-import cristianoRonaldo from "./assets/portugal/cristiano-ronaldo.png";
-import daniloPereira from "./assets/portugal/danilo-pereira.png";
-import diogoCosta from "./assets/portugal/diogo-costa.png";
-import diogoJota from "./assets/portugal/diogo-jota.png";
-import escudoPortugal from "./assets/portugal/escudo-portugal.png";
-import joaoCancelo from "./assets/portugal/joao-cancelo.png";
-import joaoMoutinho from "./assets/portugal/joao-moutinho.png";
-import pepe from "./assets/portugal/pepe.png";
-import raphaelGuerreiro from "./assets/portugal/raphael-guerreiro.png";
-import rubenDias from "./assets/portugal/ruben-dias.png";
+import bernardoSilva from "../assets/Portugal/bernardo-silva.png";
+import brunoFernandes from "../assets/Portugal/bruno-fernandes.png";
+import cristianoRonaldo from "../assets/Portugal/cristiano-ronaldo.png";
+import daniloPereira from "../assets/Portugal/danilo-pereira.png";
+import diogoCosta from "../assets/Portugal/diogo-costa.png";
+import diogoJota from "../assets/Portugal/diogo-jota.png";
+import escudoPortugal from "../assets/Portugal/escudo-portugal.png";
+import joaoCancelo from "../assets/Portugal/joao-cancelo.png";
+import joaoMoutinho from "../assets/Portugal/joao-moutinho.png";
+import pepe from "../assets/Portugal/pepe.png";
+import raphaelGuerreiro from "../assets/Portugal/raphael-guerreiro.png";
+import rubenDias from "../assets/Portugal/ruben-dias.png";
 
 const portugal = [
   {

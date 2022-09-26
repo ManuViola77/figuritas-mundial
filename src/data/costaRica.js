@@ -1,15 +1,15 @@
-import anthonyContreras from "./assets/costaRica/anthony-contreras.png";
-import bryanOviedo from "./assets/costaRica/bryan-ovideo.png";
-import bryanRuiz from "./assets/costaRica/bryan-ruiz.png";
-import celsoBorges from "./assets/costaRica/celso-borges.png";
-import escudoCostaRica from "./assets/costaRica/escudo-costa-rica.png";
-import franciscoCalvo from "./assets/costaRica/francisco-calvo.png";
-import jewisonBennette from "./assets/costaRica/jewison-bennette.png";
-import joelCampbell from "./assets/costaRica/joel-campbell.png";
-import keylorNavas from "./assets/costaRica/keylor-navas.png";
-import keysherFuller from "./assets/costaRica/keysher-fuller.png";
-import oscarDuarte from "./assets/costaRica/oscar-duarte.png";
-import yeltsinTejeda from "./assets/costaRica/yeltsin-tejeda.png";
+import anthonyContreras from "../assets/CostaRica/anthony-contreras.png";
+import bryanOviedo from "../assets/CostaRica/bryan-ovideo.png";
+import bryanRuiz from "../assets/CostaRica/bryan-ruiz.png";
+import celsoBorges from "../assets/CostaRica/celso-borges.png";
+import escudoCostaRica from "../assets/CostaRica/escudo-costa-rica.png";
+import franciscoCalvo from "../assets/CostaRica/francisco-calvo.png";
+import jewisonBennette from "../assets/CostaRica/jewison-bennette.png";
+import joelCampbell from "../assets/CostaRica/joel-campbell.png";
+import keylorNavas from "../assets/CostaRica/keylor-navas.png";
+import keysherFuller from "../assets/CostaRica/keysher-fuller.png";
+import oscarDuarte from "../assets/CostaRica/oscar-duarte.png";
+import yeltsinTejeda from "../assets/CostaRica/yeltsin-tejeda.png";
 
 const costaRica = [
   {

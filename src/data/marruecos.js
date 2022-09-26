@@ -1,15 +1,15 @@
-import achrafHakimi from "./assets/marruecos/achraf-hakimi.png";
-import adamMasina from "./assets/marruecos/adam-masina.png";
-import escudoMarruecos from "./assets/marruecos/escudo-marruecos.png";
-import imranLouza from "./assets/marruecos/imran-louza.png";
-import nayefAguerd from "./assets/marruecos/nayef-aguerd.png";
-import romainSaiss from "./assets/marruecos/romain-saiss.png";
-import ryanMmaee from "./assets/marruecos/ryan-mmaee.png";
-import selimAmallah from "./assets/marruecos/selim-amallah.png";
-import sofianeBoufal from "./assets/marruecos/sofiane-boufal.png";
-import sofyanAmrabat from "./assets/marruecos/sofyan-amrabat.png";
-import yassineBounou from "./assets/marruecos/yassine-bounou.png";
-import youssefEnNesyri from "./assets/marruecos/youssef-en-nesyri.png";
+import achrafHakimi from "../assets/Marruecos/achraf-hakimi.png";
+import adamMasina from "../assets/Marruecos/adam-masina.png";
+import escudoMarruecos from "../assets/Marruecos/escudo-marruecos.png";
+import imranLouza from "../assets/Marruecos/imran-louza.png";
+import nayefAguerd from "../assets/Marruecos/nayef-aguerd.png";
+import romainSaiss from "../assets/Marruecos/romain-saiss.png";
+import ryanMmaee from "../assets/Marruecos/ryan-mmaee.png";
+import selimAmallah from "../assets/Marruecos/selim-amallah.png";
+import sofianeBoufal from "../assets/Marruecos/sofiane-boufal.png";
+import sofyanAmrabat from "../assets/Marruecos/sofyan-amrabat.png";
+import yassineBounou from "../assets/Marruecos/yassine-bounou.png";
+import youssefEnNesyri from "../assets/Marruecos/youssef-en-nesyri.png";
 
 const marruecos = [
   {

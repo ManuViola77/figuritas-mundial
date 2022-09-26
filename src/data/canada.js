@@ -1,15 +1,15 @@
-import alistairJohnston from "./assets/canada/alistair-johnston.png";
-import alphonsoDavies from "./assets/canada/alphonso-davies.png";
-import atibaHutchinson from "./assets/canada/atiba-hutchinson.png";
-import cyleLarin from "./assets/canada/cyle-larin.png";
-import escudoCanada from "./assets/canada/escudo-canada.png";
-import jonathanDavid from "./assets/canada/jonathan-david.png";
-import kamalMiller from "./assets/canada/kamal-miller.png";
-import milanBorjan from "./assets/canada/milan-borjan.png";
-import richieLaryea from "./assets/canada/richie-laryea.png";
-import stephenEustaquio from "./assets/canada/stephen-eustaquio.png";
-import stevenVitoria from "./assets/canada/steven-vitoria.png";
-import tajonBuchanan from "./assets/canada/tajon-buchanan.png";
+import alistairJohnston from "../assets/Canada/alistair-johnston.png";
+import alphonsoDavies from "../assets/Canada/alphonso-davies.png";
+import atibaHutchinson from "../assets/Canada/atiba-hutchinson.png";
+import cyleLarin from "../assets/Canada/cyle-larin.png";
+import escudoCanada from "../assets/Canada/escudo-canada.png";
+import jonathanDavid from "../assets/Canada/jonathan-david.png";
+import kamalMiller from "../assets/Canada/kamal-miller.png";
+import milanBorjan from "../assets/Canada/milan-borjan.png";
+import richieLaryea from "../assets/Canada/richie-laryea.png";
+import stephenEustaquio from "../assets/Canada/stephen-eustaquio.png";
+import stevenVitoria from "../assets/Canada/steven-vitoria.png";
+import tajonBuchanan from "../assets/Canada/tajon-buchanan.png";
 
 const canada = [
   {

@@ -1,15 +1,15 @@
-import antoneeRobinson from "./assets/estadosUnidos/antonee-robinson.png";
-import christianPulisic from "./assets/estadosUnidos/christian-pulisic.png";
-import deandreYedlin from "./assets/estadosUnidos/deandre-yedlin.png";
-import escudoUsa from "./assets/estadosUnidos/escudo-usa.png";
-import giovanniReyna from "./assets/estadosUnidos/giovanni-reyna.png";
-import mattTurner from "./assets/estadosUnidos/matt-turner.png";
-import ricardoPepi from "./assets/estadosUnidos/ricardo-pepi.png";
-import serginoDest from "./assets/estadosUnidos/sergino-dest.png";
-import timothyWeah from "./assets/estadosUnidos/timothy-weah.png";
-import tylerAdams from "./assets/estadosUnidos/tyler-adams.png";
-import walkerZimmerman from "./assets/estadosUnidos/walker-zimmerman.png";
-import westonMckennie from "./assets/estadosUnidos/weston-mckennie.png";
+import antoneeRobinson from "../assets/EstadosUnidos/antonee-robinson.png";
+import christianPulisic from "../assets/EstadosUnidos/christian-pulisic.png";
+import deandreYedlin from "../assets/EstadosUnidos/deandre-yedlin.png";
+import escudoUsa from "../assets/EstadosUnidos/escudo-usa.png";
+import giovanniReyna from "../assets/EstadosUnidos/giovanni-reyna.png";
+import mattTurner from "../assets/EstadosUnidos/matt-turner.png";
+import ricardoPepi from "../assets/EstadosUnidos/ricardo-pepi.png";
+import serginoDest from "../assets/EstadosUnidos/sergino-dest.png";
+import timothyWeah from "../assets/EstadosUnidos/timothy-weah.png";
+import tylerAdams from "../assets/EstadosUnidos/tyler-adams.png";
+import walkerZimmerman from "../assets/EstadosUnidos/walker-zimmerman.png";
+import westonMckennie from "../assets/EstadosUnidos/weston-mckennie.png";
 
 const estadosUnidos = [
   {

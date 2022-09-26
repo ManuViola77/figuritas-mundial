@@ -1,15 +1,15 @@
-import angelDiMaria from "./assets/argentina/angel-di-maria.png";
-import cristianRomero from "./assets/argentina/cristian-romero.png";
-import emilianoMartinez from "./assets/argentina/emiliano-martinez.png";
-import escudoArgentina from "./assets/argentina/escudo-argentina.png";
-import giovaniLoCelso from "./assets/argentina/giovani-lo-celso.png";
-import lautaroMartinez from "./assets/argentina/lautaro-martinez.png";
-import leandroParedes from "./assets/argentina/leandro-paredes.png";
-import lionelMessi from "./assets/argentina/lionel-messi.png";
-import marcosAcuna from "./assets/argentina/marcos-acuna.png";
-import nahuelMolina from "./assets/argentina/nahuel-molina.png";
-import nicolasOtamendi from "./assets/argentina/nicolas-otamendi.png";
-import rodrigoDePaul from "./assets/argentina/rodrigo-de-paul.png";
+import angelDiMaria from "../assets/Argentina/angel-di-maria.png";
+import cristianRomero from "../assets/Argentina/cristian-romero.png";
+import emilianoMartinez from "../assets/Argentina/emiliano-martinez.png";
+import escudoArgentina from "../assets/Argentina/escudo-argentina.png";
+import giovaniLoCelso from "../assets/Argentina/giovani-lo-celso.png";
+import lautaroMartinez from "../assets/Argentina/lautaro-martinez.png";
+import leandroParedes from "../assets/Argentina/leandro-paredes.png";
+import lionelMessi from "../assets/Argentina/lionel-messi.png";
+import marcosAcuna from "../assets/Argentina/marcos-acuna.png";
+import nahuelMolina from "../assets/Argentina/nahuel-molina.png";
+import nicolasOtamendi from "../assets/Argentina/nicolas-otamendi.png";
+import rodrigoDePaul from "../assets/Argentina/rodrigo-de-paul.png";
 
 const argentina = [
   {

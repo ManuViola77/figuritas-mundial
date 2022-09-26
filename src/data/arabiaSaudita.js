@@ -1,15 +1,15 @@
-import abdulelahAlAmri from "./assets/arabiaSaudita/abdulelah-al-amri.png";
-import abdulelahAlMalki from "./assets/arabiaSaudita/abdulelah-al-malki.png";
-import abdullahMadu from "./assets/arabiaSaudita/abdullah-madu.png";
-import escudoArabiaSaudita from "./assets/arabiaSaudita/escudo-arabia-saudita.png";
-import hassanAlTambakti from "./assets/arabiaSaudita/hassan-al-tambakti.png";
-import khalidAlGhannam from "./assets/arabiaSaudita/khalid-al-ghannam.png";
-import mohamedKanno from "./assets/arabiaSaudita/mohamed-kanno.png";
-import mohammedAlOwais from "./assets/arabiaSaudita/mohammed-al-owais.png";
-import salemAlDawasari from "./assets/arabiaSaudita/salem-al-dawasari.png";
-import salmanAlFaraj from "./assets/arabiaSaudita/salman-al-faraj.png";
-import sultanAlGhannam from "./assets/arabiaSaudita/sultan-al-ghannam.png";
-import yasserAlShahrani from "./assets/arabiaSaudita/yasser-al-shahrani.png";
+import abdulelahAlAmri from "../assets/ArabiaSaudita/abdulelah-al-amri.png";
+import abdulelahAlMalki from "../assets/ArabiaSaudita/abdulelah-al-malki.png";
+import abdullahMadu from "../assets/ArabiaSaudita/abdullah-madu.png";
+import escudoArabiaSaudita from "../assets/ArabiaSaudita/escudo-arabia-saudita.png";
+import hassanAlTambakti from "../assets/ArabiaSaudita/hassan-al-tambakti.png";
+import khalidAlGhannam from "../assets/ArabiaSaudita/khalid-al-ghannam.png";
+import mohamedKanno from "../assets/ArabiaSaudita/mohamed-kanno.png";
+import mohammedAlOwais from "../assets/ArabiaSaudita/mohammed-al-owais.png";
+import salemAlDawasari from "../assets/ArabiaSaudita/salem-al-dawasari.png";
+import salmanAlFaraj from "../assets/ArabiaSaudita/salman-al-faraj.png";
+import sultanAlGhannam from "../assets/ArabiaSaudita/sultan-al-ghannam.png";
+import yasserAlShahrani from "../assets/ArabiaSaudita/yasser-al-shahrani.png";
 
 const arabiaSaudita = [
   {

@@ -1,15 +1,15 @@
-import andreFrank from "./assets/camerun/andre-frank-zambo-anguissa.png";
-import andreOnana from "./assets/camerun/andre-onana.png";
-import collinsFai from "./assets/camerun/collins-fai.png";
-import ericMaxim from "./assets/camerun/eric-maxim-choupo-moting.png";
-import escudoCamerun from "./assets/camerun/escudo-camerun.png";
-import jeanCharlesCastelletto from "./assets/camerun/jean-charles-castelletto.png";
-import karlTokoEkambi from "./assets/camerun/karl-toko-ekambi.png";
-import michaelNgadeu from "./assets/camerun/michael-ngadeu.png";
-import nicolasMoumiNgamaleu from "./assets/camerun/nicolas-moumi-ngamaleu.png";
-import nouhou from "./assets/camerun/nouhou.png";
-import samuelOumGouet from "./assets/camerun/samuel-oum-gouet.png";
-import vincentAboubakar from "./assets/camerun/vincent-aboubakar.png";
+import andreFrank from "../assets/Camerun/andre-frank-zambo-anguissa.png";
+import andreOnana from "../assets/Camerun/andre-onana.png";
+import collinsFai from "../assets/Camerun/collins-fai.png";
+import ericMaxim from "../assets/Camerun/eric-maxim-choupo-moting.png";
+import escudoCamerun from "../assets/Camerun/escudo-camerun.png";
+import jeanCharlesCastelletto from "../assets/Camerun/jean-charles-castelletto.png";
+import karlTokoEkambi from "../assets/Camerun/karl-toko-ekambi.png";
+import michaelNgadeu from "../assets/Camerun/michael-ngadeu.png";
+import nicolasMoumiNgamaleu from "../assets/Camerun/nicolas-moumi-ngamaleu.png";
+import nouhou from "../assets/Camerun/nouhou.png";
+import samuelOumGouet from "../assets/Camerun/samuel-oum-gouet.png";
+import vincentAboubakar from "../assets/Camerun/vincent-aboubakar.png";
 
 const camerun = [
   {

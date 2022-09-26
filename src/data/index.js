@@ -113,11 +113,11 @@ export const getFilteredData = ({
     const { have, haveGold, name, id } = item;
 
     const country = data.countryMapping[index];
-    const matchCountry = country === countryFilter;
-    const matchHave = have === haveFilter;
-    const matchHaveGold = haveGold === haveGoldFilter;
-    const matchName = name === nameFilter;
-    const matchId = id === idFilter;
+    const matchCountry = country === countryFilter || !countryFilter;
+    const matchHave = have === haveFilter || !haveFilter;
+    const matchHaveGold = haveGold === haveGoldFilter || !haveGoldFilter;
+    const matchName = name === nameFilter || !nameFilter;
+    const matchId = id === idFilter || !idFilter;
 
     const isMatch =
       matchCountry && matchHave && matchHaveGold && matchName && matchId;

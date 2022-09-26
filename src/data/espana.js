@@ -1,15 +1,15 @@
-import alvaroMorata from "./assets/espana/alvaro-morata.png";
-import aymericLaporte from "./assets/espana/aymeric-laporte.png";
-import cesarAzpilicueta from "./assets/espana/cesar-azpilicueta.png";
-import daniOlmo from "./assets/espana/dani-olmo.png";
-import ericGarcia from "./assets/espana/eric-garcia.png";
-import escudoEspana from "./assets/espana/escudo-espana.png";
-import ferranTorres from "./assets/espana/ferran-torres.png";
-import gavi from "./assets/espana/gavi.png";
-import jordiAlba from "./assets/espana/jordi-alba.png";
-import pedri from "./assets/espana/pedri.png";
-import sergioBusquets from "./assets/espana/sergio-busquets.png";
-import unaiSimon from "./assets/espana/unai-simon.png";
+import alvaroMorata from "../assets/Espana/alvaro-morata.png";
+import aymericLaporte from "../assets/Espana/aymeric-laporte.png";
+import cesarAzpilicueta from "../assets/Espana/cesar-azpilicueta.png";
+import daniOlmo from "../assets/Espana/dani-olmo.png";
+import ericGarcia from "../assets/Espana/eric-garcia.png";
+import escudoEspana from "../assets/Espana/escudo-espana.png";
+import ferranTorres from "../assets/Espana/ferran-torres.png";
+import gavi from "../assets/Espana/gavi.png";
+import jordiAlba from "../assets/Espana/jordi-alba.png";
+import pedri from "../assets/Espana/pedri.png";
+import sergioBusquets from "../assets/Espana/sergio-busquets.png";
+import unaiSimon from "../assets/Espana/unai-simon.png";
 
 const espana = [
   {

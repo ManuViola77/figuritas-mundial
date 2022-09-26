@@ -1,15 +1,15 @@
-import antonioRudiger from "./assets/alemania/antonio-rudiger.png";
-import davidRaum from "./assets/alemania/david-raum.png";
-import escudoAlemania from "./assets/alemania/escudo-alemania.png";
-import joshuaKimmich from "./assets/alemania/joshua-kimmich.png";
-import kaiHavertz from "./assets/alemania/kai-havertz.png";
-import leonGortzka from "./assets/alemania/leon-gortzka.png";
-import manuelNeuer from "./assets/alemania/manuel-neuer.png";
-import niklasSule from "./assets/alemania/niklas-sule.png";
-import sergeGnabry from "./assets/alemania/serge-gnabry.png";
-import thiloKehrer from "./assets/alemania/thilo-kehrer.png";
-import thomasMuller from "./assets/alemania/thomas-muller.png";
-import timoWerner from "./assets/alemania/timo-werner.png";
+import antonioRudiger from "../assets/Alemania/antonio-rudiger.png";
+import davidRaum from "../assets/Alemania/david-raum.png";
+import escudoAlemania from "../assets/Alemania/escudo-alemania.png";
+import joshuaKimmich from "../assets/Alemania/joshua-kimmich.png";
+import kaiHavertz from "../assets/Alemania/kai-havertz.png";
+import leonGortzka from "../assets/Alemania/leon-gortzka.png";
+import manuelNeuer from "../assets/Alemania/manuel-neuer.png";
+import niklasSule from "../assets/Alemania/niklas-sule.png";
+import sergeGnabry from "../assets/Alemania/serge-gnabry.png";
+import thiloKehrer from "../assets/Alemania/thilo-kehrer.png";
+import thomasMuller from "../assets/Alemania/thomas-muller.png";
+import timoWerner from "../assets/Alemania/timo-werner.png";
 
 const alemania = [
   {

@@ -1,15 +1,15 @@
-import ahmadNourollahi from "./assets/iran/ahmad-nourollahi.png";
-import aliGholizadeh from "./assets/iran/ali-gholizadeh.png";
-import alirezaBeiranvand from "./assets/iran/alireza-beiranvand.png";
-import alirezaJahanbakhsh from "./assets/iran/alireza-jahanbakhsh.png";
-import escudoIran from "./assets/iran/escudo-iran.png";
-import hosseinKanaani from "./assets/iran/hossein-kanaani.png";
-import mehdiTaremi from "./assets/iran/mehdi-taremi.png";
-import miladMohammadi from "./assets/iran/milad-mohammadi.png";
-import omidNoorafkan from "./assets/iran/omid-noorafkan.png";
-import saeidEzatolahi from "./assets/iran/saeid-ezatolahi.png";
-import sardarAzmoun from "./assets/iran/sardar-azmoun.png";
-import shojaKhalilzadeh from "./assets/iran/shoja-khalilzadeh.png";
+import ahmadNourollahi from "../assets/Iran/ahmad-nourollahi.png";
+import aliGholizadeh from "../assets/Iran/ali-gholizadeh.png";
+import alirezaBeiranvand from "../assets/Iran/alireza-beiranvand.png";
+import alirezaJahanbakhsh from "../assets/Iran/alireza-jahanbakhsh.png";
+import escudoIran from "../assets/Iran/escudo-iran.png";
+import hosseinKanaani from "../assets/Iran/hossein-kanaani.png";
+import mehdiTaremi from "../assets/Iran/mehdi-taremi.png";
+import miladMohammadi from "../assets/Iran/milad-mohammadi.png";
+import omidNoorafkan from "../assets/Iran/omid-noorafkan.png";
+import saeidEzatolahi from "../assets/Iran/saeid-ezatolahi.png";
+import sardarAzmoun from "../assets/Iran/sardar-azmoun.png";
+import shojaKhalilzadeh from "../assets/Iran/shoja-khalilzadeh.png";
 
 const iran = [
   {

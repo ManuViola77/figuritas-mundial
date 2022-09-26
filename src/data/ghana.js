@@ -1,15 +1,15 @@
-import abdulRahmanBaba from "./assets/ghana/abdul-rahman-baba.png";
-import alexanderDjiku from "./assets/ghana/alexander-djiku.png";
-import andreAyew from "./assets/ghana/andre-ayew.png";
-import andyYiadom from "./assets/ghana/andy-yiadom.png";
-import danielAmartey from "./assets/ghana/daniel-amartey.png";
-import escudoGhana from "./assets/ghana/escudo-ghana.png";
-import iddrisuBaba from "./assets/ghana/iddrisu-baba.png";
-import joeWollacott from "./assets/ghana/joe-wollacott.png";
-import jordanAyew from "./assets/ghana/jordan-ayew.png";
-import kamaldeenSulemana from "./assets/ghana/kamaldeen-sulemana.png";
-import mohammedKudus from "./assets/ghana/mohammed-kudus.png";
-import thomasPartey from "./assets/ghana/thomas-partey.png";
+import abdulRahmanBaba from "../assets/Ghana/abdul-rahman-baba.png";
+import alexanderDjiku from "../assets/Ghana/alexander-djiku.png";
+import andreAyew from "../assets/Ghana/andre-ayew.png";
+import andyYiadom from "../assets/Ghana/andy-yiadom.png";
+import danielAmartey from "../assets/Ghana/daniel-amartey.png";
+import escudoGhana from "../assets/Ghana/escudo-ghana.png";
+import iddrisuBaba from "../assets/Ghana/iddrisu-baba.png";
+import joeWollacott from "../assets/Ghana/joe-wollacott.png";
+import jordanAyew from "../assets/Ghana/jordan-ayew.png";
+import kamaldeenSulemana from "../assets/Ghana/kamaldeen-sulemana.png";
+import mohammedKudus from "../assets/Ghana/mohammed-kudus.png";
+import thomasPartey from "../assets/Ghana/thomas-partey.png";
 
 const ghana = [
   {

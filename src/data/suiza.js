@@ -1,16 +1,16 @@
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-import yannSommer from "./assets/suiza/.png";
-
+/* import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+import yannSommer from "../assets/suiza/.png";
+ */
 const suiza = [
   {
     id: 0,

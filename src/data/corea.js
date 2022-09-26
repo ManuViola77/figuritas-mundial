@@ -1,15 +1,15 @@
-import escudoCorea from "./assets/corea/escudo-korea-del-sur.png";
-import heeChanHwang from "./assets/corea/hee-chan-hwang.png";
-import heungMinSon from "./assets/corea/heung-min-son.png";
-import inBeomHwang from "./assets/corea/in-beom-hwang.png";
-import jaeSungLee from "./assets/corea/jae-sung-lee.png";
-import jinSuKim from "./assets/corea/jin-su-kim.png";
-import minJaeKim from "./assets/corea/min-jae-kim.png";
-import seungGyuKim from "./assets/corea/seung-gyu-kim.png";
-import uiJoHwang from "./assets/corea/ui-jo-hwang.png";
-import wooYoungJung from "./assets/corea/woo-young-jung.png";
-import yongLee from "./assets/corea/yong-lee.png";
-import youngGwonKim from "./assets/corea/young-gwon-kim.png";
+import escudoCorea from "../assets/Corea/escudo-korea-del-sur.png";
+import heeChanHwang from "../assets/Corea/hee-chan-hwang.png";
+import heungMinSon from "../assets/Corea/heung-min-son.png";
+import inBeomHwang from "../assets/Corea/in-beom-hwang.png";
+import jaeSungLee from "../assets/Corea/jae-sung-lee.png";
+import jinSuKim from "../assets/Corea/jin-su-kim.png";
+import minJaeKim from "../assets/Corea/min-jae-kim.png";
+import seungGyuKim from "../assets/Corea/seung-gyu-kim.png";
+import uiJoHwang from "../assets/Corea/ui-jo-hwang.png";
+import wooYoungJung from "../assets/Corea/woo-young-jung.png";
+import yongLee from "../assets/Corea/yong-lee.png";
+import youngGwonKim from "../assets/Corea/young-gwon-kim.png";
 
 const corea = [
   {

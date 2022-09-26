@@ -1,15 +1,15 @@
-import aoTanaka from "./assets/japon/ao-tanaka.png";
-import escudoJapon from "./assets/japon/escudo-japon.png";
-import gakuShibasaki from "./assets/japon/gaku-shibasaki.png";
-import junyaIto from "./assets/japon/junya-ito.png";
-import mayaYoshida from "./assets/japon/maya-yoshida.png";
-import mikiYamane from "./assets/japon/miki-yamane.png";
-import shuichiGonda from "./assets/japon/shuichi-gonda.png";
-import takehiroTomiyasu from "./assets/japon/takehiro-tomiyasu.png";
-import takumiMinamino from "./assets/japon/takumi-minamino.png";
-import wataruEndo from "./assets/japon/wataru-endo.png";
-import yutoNagatomo from "./assets/japon/yuto-nagatomo.png";
-import yuyaOsako from "./assets/japon/yuya-osako.png";
+import aoTanaka from "../assets/Japon/ao-tanaka.png";
+import escudoJapon from "../assets/Japon/escudo-japon.png";
+import gakuShibasaki from "../assets/Japon/gaku-shibasaki.png";
+import junyaIto from "../assets/Japon/junya-ito.png";
+import mayaYoshida from "../assets/Japon/maya-yoshida.png";
+import mikiYamane from "../assets/Japon/miki-yamane.png";
+import shuichiGonda from "../assets/Japon/shuichi-gonda.png";
+import takehiroTomiyasu from "../assets/Japon/takehiro-tomiyasu.png";
+import takumiMinamino from "../assets/Japon/takumi-minamino.png";
+import wataruEndo from "../assets/Japon/wataru-endo.png";
+import yutoNagatomo from "../assets/Japon/yuto-nagatomo.png";
+import yuyaOsako from "../assets/Japon/yuya-osako.png";
 
 const japon = [
   {

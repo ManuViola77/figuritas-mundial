@@ -1,15 +1,15 @@
-import daleyBlind from "./assets/holanda/daley-blind.png";
-import davyKlaassen from "./assets/holanda/davy-klaassen.png";
-import denzelDumfries from "./assets/holanda/denzel-dumfries.png";
-import escudoHolanda from "./assets/holanda/escudo-paises-bajos.png";
-import frenkieDeJong from "./assets/holanda/frenkie-de-jong.png";
-import georginioWijnaldum from "./assets/holanda/georginio-wijnaldum.png";
-import justinBijlow from "./assets/holanda/justin-bijlow.png";
-import matthijsDeLigt from "./assets/holanda/matthijs-de-ligt.png";
-import memphis from "./assets/holanda/memphis.png";
-import stefanDeVrij from "./assets/holanda/stefan-de-vrij.png";
-import stevenBerghuis from "./assets/holanda/steven-berghuis.png";
-import virgilVanDijk from "./assets/holanda/virgil-van-dijk.png";
+import daleyBlind from "../assets/Holanda/daley-blind.png";
+import davyKlaassen from "../assets/Holanda/davy-klaassen.png";
+import denzelDumfries from "../assets/Holanda/denzel-dumfries.png";
+import escudoHolanda from "../assets/Holanda/escudo-paises-bajos.png";
+import frenkieDeJong from "../assets/Holanda/frenkie-de-jong.png";
+import georginioWijnaldum from "../assets/Holanda/georginio-wijnaldum.png";
+import justinBijlow from "../assets/Holanda/justin-bijlow.png";
+import matthijsDeLigt from "../assets/Holanda/matthijs-de-ligt.png";
+import memphis from "../assets/Holanda/memphis.png";
+import stefanDeVrij from "../assets/Holanda/stefan-de-vrij.png";
+import stevenBerghuis from "../assets/Holanda/steven-berghuis.png";
+import virgilVanDijk from "../assets/Holanda/virgil-van-dijk.png";
 
 const holanda = [
   {

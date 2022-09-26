@@ -1,15 +1,15 @@
-import adrienRabiot from "./assets/francia/adren-rabiot.png";
-import antoineGriezmann from "./assets/francia/antoine-griezmann.png";
-import escudoFrancia from "./assets/francia/escudo-francia.png";
-import hugoLloris from "./assets/francia/hugo-lloris.png";
-import julesKounde from "./assets/francia/jules-kounde.png";
-import karimBenzema from "./assets/francia/karim-benzema.png";
-import kylianMbappe from "./assets/francia/kylian-mbappe.png";
-import ngoloKante from "./assets/francia/ngolo-kante.png";
-import paulPogba from "./assets/francia/paul-pogba.png";
-import presnelKimpembe from "./assets/francia/presnel-kimpembe.png";
-import raphaelVarane from "./assets/francia/raphael-varane.png";
-import theoHernandez from "./assets/francia/theo-hernandez.png";
+import adrienRabiot from "../assets/Francia/adren-rabiot.png";
+import antoineGriezmann from "../assets/Francia/antoine-griezmann.png";
+import escudoFrancia from "../assets/Francia/escudo-francia.png";
+import hugoLloris from "../assets/Francia/hugo-lloris.png";
+import julesKounde from "../assets/Francia/jules-kounde.png";
+import karimBenzema from "../assets/Francia/karim-benzema.png";
+import kylianMbappe from "../assets/Francia/kylian-mbappe.png";
+import ngoloKante from "../assets/Francia/ngolo-kante.png";
+import paulPogba from "../assets/Francia/paul-pogba.png";
+import presnelKimpembe from "../assets/Francia/presnel-kimpembe.png";
+import raphaelVarane from "../assets/Francia/raphael-varane.png";
+import theoHernandez from "../assets/Francia/theo-hernandez.png";
 
 const francia = [
   {

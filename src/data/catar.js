@@ -1,15 +1,15 @@
-import abdulazizHatem from "./assets/catar/abdulaziz-hatem.png";
-import abdulkarimHassan from "./assets/catar/abdulkarim-hassan.png";
-import akramHassanAfif from "./assets/catar/akram-hassan-afif.png";
-import almoezAli from "./assets/catar/almoez-ali.png";
-import bassamAlrawi from "./assets/catar/bassam-alrawi.png";
-import boualemKhoukhi from "./assets/catar/boualem-khoukhi.png";
-import escudoCatar from "./assets/catar/escudo-qatar.png";
-import hasanAlHaydos from "./assets/catar/hasan-al-haydos.png";
-import karimBoudiaf from "./assets/catar/karim-boudiaf.png";
-import pedroMiguel from "./assets/catar/pedro-miguel.png";
-import saadAlSheeb from "./assets/catar/saad-al-sheeb.png";
-import tarekSalman from "./assets/catar/tarek-salman.png";
+import abdulazizHatem from "../assets/Catar/abdulaziz-hatem.png";
+import abdulkarimHassan from "../assets/Catar/abdulkarim-hassan.png";
+import akramHassanAfif from "../assets/Catar/akram-hassan-afif.png";
+import almoezAli from "../assets/Catar/almoez-ali.png";
+import bassamAlrawi from "../assets/Catar/bassam-alrawi.png";
+import boualemKhoukhi from "../assets/Catar/boualem-khoukhi.png";
+import escudoCatar from "../assets/Catar/escudo-qatar.png";
+import hasanAlHaydos from "../assets/Catar/hasan-al-haydos.png";
+import karimBoudiaf from "../assets/Catar/karim-boudiaf.png";
+import pedroMiguel from "../assets/Catar/pedro-miguel.png";
+import saadAlSheeb from "../assets/Catar/saad-al-sheeb.png";
+import tarekSalman from "../assets/Catar/tarek-salman.png";
 
 const catar = [
   {

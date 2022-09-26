@@ -1,15 +1,15 @@
-import andreasChristensen from "./assets/dinamarca/andreas-christensen.png";
-import christianEriksen from "./assets/dinamarca/christian-eriksen.png";
-import danielWass from "./assets/dinamarca/daniel-wass.png";
-import escudoDinamarca from "./assets/dinamarca/escudo-dinamarca.png";
-import jannikVestergaard from "./assets/dinamarca/jannik-vestergaard.png";
-import joakimMaehle from "./assets/dinamarca/joakim-maehle.png";
-import kasperSchmeichel from "./assets/dinamarca/kasper-schmeichel.png";
-import martinBraithwaite from "./assets/dinamarca/martin-braithwaite.png";
-import pierreEmileHojbjerg from "./assets/dinamarca/pierre-emile-hojbjerg.png";
-import simonKjaer from "./assets/dinamarca/simon-kjaer.png";
-import thomasDelaney from "./assets/dinamarca/thomas-delaney.png";
-import yussufPoulsen from "./assets/dinamarca/yussuf-poulsen.png";
+import andreasChristensen from "../assets/Dinamarca/andreas-christensen.png";
+import christianEriksen from "../assets/Dinamarca/christian-eriksen.png";
+import danielWass from "../assets/Dinamarca/daniel-wass.png";
+import escudoDinamarca from "../assets/Dinamarca/escudo-dinamarca.png";
+import jannikVestergaard from "../assets/Dinamarca/jannik-vestergaard.png";
+import joakimMaehle from "../assets/Dinamarca/joakim-maehle.png";
+import kasperSchmeichel from "../assets/Dinamarca/kasper-schmeichel.png";
+import martinBraithwaite from "../assets/Dinamarca/martin-braithwaite.png";
+import pierreEmileHojbjerg from "../assets/Dinamarca/pierre-emile-hojbjerg.png";
+import simonKjaer from "../assets/Dinamarca/simon-kjaer.png";
+import thomasDelaney from "../assets/Dinamarca/thomas-delaney.png";
+import yussufPoulsen from "../assets/Dinamarca/yussuf-poulsen.png";
 
 const dinamarca = [
   {

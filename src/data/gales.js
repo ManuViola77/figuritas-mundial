@@ -1,15 +1,15 @@
-import aaronRamsey from "./assets/gales/aaron-ramsey.png";
-import benDavies from "./assets/gales/ben-davies.png";
-import connorRoberts from "./assets/gales/connor-roberts.png";
-import danielJames from "./assets/gales/daniel-james.png";
-import escudoGales from "./assets/gales/escudo-gales.png";
-import ethanAmpadu from "./assets/gales/ethan-ampadu.png";
-import garethBale from "./assets/gales/gareth-bale.png";
-import joeAllen from "./assets/gales/joe-allen.png";
-import joeRodon from "./assets/gales/joe-rodon.png";
-import kiefferMoore from "./assets/gales/kieffer-moore.png";
-import necoWilliams from "./assets/gales/neco-williams.png";
-import wayneHennessey from "./assets/gales/wayne-hennessey.png";
+import aaronRamsey from "../assets/Gales/aaron-ramsey.png";
+import benDavies from "../assets/Gales/ben-davies.png";
+import connorRoberts from "../assets/Gales/connor-roberts.png";
+import danielJames from "../assets/Gales/daniel-james.png";
+import escudoGales from "../assets/Gales/escudo-gales.png";
+import ethanAmpadu from "../assets/Gales/ethan-ampadu.png";
+import garethBale from "../assets/Gales/gareth-bale.png";
+import joeAllen from "../assets/Gales/joe-allen.png";
+import joeRodon from "../assets/Gales/joe-rodon.png";
+import kiefferMoore from "../assets/Gales/kieffer-moore.png";
+import necoWilliams from "../assets/Gales/neco-williams.png";
+import wayneHennessey from "../assets/Gales/wayne-hennessey.png";
 
 const gales = [
   {

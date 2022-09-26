@@ -1,16 +1,16 @@
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-import yannSommer from "./assets/uruguay/.png";
-
+/* import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+import yannSommer from "../assets/uruguay/.png";
+ */
 const uruguay = [
   {
     id: 0,

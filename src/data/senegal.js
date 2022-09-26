@@ -1,15 +1,15 @@
-import abdouDiallo from "./assets/senegal/abdou-diallo.png";
-import boulayeDia from "./assets/senegal/boulaye-dia.png";
-import bounaSarr from "./assets/senegal/bouna-sarr.png";
-import cheikhouKouyate from "./assets/senegal/cheikhou-kouyate.png";
-import edouardMendy from "./assets/senegal/edouard-mendy.png";
-import escudoSenegal from "./assets/senegal/escudo-senegal.png";
-import idrissaGueye from "./assets/senegal/idrissa-gueye.png";
-import ismailaSarr from "./assets/senegal/ismaila-sarr.png";
-import kalidouKoulibaly from "./assets/senegal/kalidou-koulibaly.png";
-import nampalysMendy from "./assets/senegal/nampalys-mendy.png";
-import sadioMane from "./assets/senegal/sadio-mane.png";
-import saliouCiss from "./assets/senegal/saliou-ciss.png";
+import abdouDiallo from "../assets/Senegal/abdou-diallo.png";
+import boulayeDia from "../assets/Senegal/boulaye-dia.png";
+import bounaSarr from "../assets/Senegal/bouna-sarr.png";
+import cheikhouKouyate from "../assets/Senegal/cheikhou-kouyate.png";
+import edouardMendy from "../assets/Senegal/edouard-mendy.png";
+import escudoSenegal from "../assets/Senegal/escudo-senegal.png";
+import idrissaGueye from "../assets/Senegal/idrissa-gueye.png";
+import ismailaSarr from "../assets/Senegal/ismaila-sarr.png";
+import kalidouKoulibaly from "../assets/Senegal/kalidou-koulibaly.png";
+import nampalysMendy from "../assets/Senegal/nampalys-mendy.png";
+import sadioMane from "../assets/Senegal/sadio-mane.png";
+import saliouCiss from "../assets/Senegal/saliou-ciss.png";
 
 const senegal = [
   {

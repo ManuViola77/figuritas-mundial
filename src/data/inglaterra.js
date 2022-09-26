@@ -1,15 +1,15 @@
-import declanRice from "./assets/inglaterra/declan-rice.png";
-import escudoInglaterra from "./assets/inglaterra/escudo-inglaterra.png";
-import harryKane from "./assets/inglaterra/harry-kane.png";
-import harryMaguire from "./assets/inglaterra/harry-maguire.png";
-import jordanPickford from "./assets/inglaterra/jodran-pickford.png";
-import johnStones from "./assets/inglaterra/john-stones.png";
-import kalvinPhillips from "./assets/inglaterra/kalvin-phillips.png";
-import kyleWalker from "./assets/inglaterra/kyle-walker.png";
-import lukeShaw from "./assets/inglaterra/luke-shaw.png";
-import masonMount from "./assets/inglaterra/mason-mount.png";
-import philFoden from "./assets/inglaterra/phil-foden.png";
-import raheemSterling from "./assets/inglaterra/raheem-sterling.png";
+import declanRice from "../assets/Inglaterra/declan-rice.png";
+import escudoInglaterra from "../assets/Inglaterra/escudo-inglaterra.png";
+import harryKane from "../assets/Inglaterra/harry-kane.png";
+import harryMaguire from "../assets/Inglaterra/harry-maguire.png";
+import jordanPickford from "../assets/Inglaterra/jodran-pickford.png";
+import johnStones from "../assets/Inglaterra/john-stones.png";
+import kalvinPhillips from "../assets/Inglaterra/kalvin-phillips.png";
+import kyleWalker from "../assets/Inglaterra/kyle-walker.png";
+import lukeShaw from "../assets/Inglaterra/luke-shaw.png";
+import masonMount from "../assets/Inglaterra/mason-mount.png";
+import philFoden from "../assets/Inglaterra/phil-foden.png";
+import raheemSterling from "../assets/Inglaterra/raheem-sterling.png";
 
 const inglaterra = [
   {

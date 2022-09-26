@@ -1,15 +1,15 @@
-import andrejKramaric from "./assets/croacia/andrej-kramaric.png";
-import bornaSosa from "./assets/croacia/borna-sosa.png";
-import dejanLovren from "./assets/croacia/dejan-lovren.png";
-import dominikLivakovic from "./assets/croacia/dominik-livakovic.png";
-import escudoCroacia from "./assets/croacia/escudo-croacia.png";
-import ivanPerisic from "./assets/croacia/ivan-perisic.png";
-import josipJuranovic from "./assets/croacia/josip-juranovic.png";
-import joskoGvardiol from "./assets/croacia/josko-gvardiol.png";
-import lukaModric from "./assets/croacia/luka-modric.png";
-import marceloBrozovic from "./assets/croacia/marcelo-brozovic.png";
-import mateoKovacic from "./assets/croacia/mateo-kovacic.png";
-import nikolaVlasic from "./assets/croacia/nikola-vlasic.png";
+import andrejKramaric from "../assets/Croacia/andrej-kramaric.png";
+import bornaSosa from "../assets/Croacia/borna-sosa.png";
+import dejanLovren from "../assets/Croacia/dejan-lovren.png";
+import dominikLivakovic from "../assets/Croacia/dominik-livakovic.png";
+import escudoCroacia from "../assets/Croacia/escudo-croacia.png";
+import ivanPerisic from "../assets/Croacia/ivan-perisic.png";
+import josipJuranovic from "../assets/Croacia/josip-juranovic.png";
+import joskoGvardiol from "../assets/Croacia/josko-gvardiol.png";
+import lukaModric from "../assets/Croacia/luka-modric.png";
+import marceloBrozovic from "../assets/Croacia/marcelo-brozovic.png";
+import mateoKovacic from "../assets/Croacia/mateo-kovacic.png";
+import nikolaVlasic from "../assets/Croacia/nikola-vlasic.png";
 
 const croacia = [
   {

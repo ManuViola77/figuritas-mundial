@@ -1,16 +1,16 @@
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-import yannSommer from "./assets/serbia/.png";
-
+/* import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+import yannSommer from "../assets/serbia/.png";
+ */
 const serbia = [
   {
     id: 0,

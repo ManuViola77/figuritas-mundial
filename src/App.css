@@ -18,11 +18,22 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-left: 10px;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
@@ -35,4 +46,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.filters-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.label {
+  padding-right: 20px;
+  margin-top: -5px;
+}
+
+.input-container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 20px;
 }

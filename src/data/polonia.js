@@ -1,15 +1,15 @@
-import arkadiuszMilik from "./assets/polonia/arkadiusz-milik.png";
-import bartoszBereszynski from "./assets/polonia/bartosz-bereszynski.png";
-import escudoPolonia from "./assets/polonia/escudo-polonia.png";
-import grzegorzKrychowiak from "./assets/polonia/grzegorz-krychowiak.png";
-import jakubModer from "./assets/polonia/jakub-moder.png";
-import janBednarek from "./assets/polonia/jan-bednarek.png";
-import kamilGlik from "./assets/polonia/kamil-glik.png";
-import kamilJozwiak from "./assets/polonia/kamil-jozwiak.png";
-import mattyCash from "./assets/polonia/matty-cash.png";
-import piotrZielinski from "./assets/polonia/piotr-zielinski.png";
-import robertLewandowski from "./assets/polonia/robert-lewandowski.png";
-import wojciechSzczesny from "./assets/polonia/wojciech-szczesny.png";
+import arkadiuszMilik from "../assets/Polonia/arkadiusz-milik.png";
+import bartoszBereszynski from "../assets/Polonia/bartosz-bereszynski.png";
+import escudoPolonia from "../assets/Polonia/escudo-polonia.png";
+import grzegorzKrychowiak from "../assets/Polonia/grzegorz-krychowiak.png";
+import jakubModer from "../assets/Polonia/jakub-moder.png";
+import janBednarek from "../assets/Polonia/jan-bednarek.png";
+import kamilGlik from "../assets/Polonia/kamil-glik.png";
+import kamilJozwiak from "../assets/Polonia/kamil-jozwiak.png";
+import mattyCash from "../assets/Polonia/matty-cash.png";
+import piotrZielinski from "../assets/Polonia/piotr-zielinski.png";
+import robertLewandowski from "../assets/Polonia/robert-lewandowski.png";
+import wojciechSzczesny from "../assets/Polonia/wojciech-szczesny.png";
 
 const polonia = [
   {

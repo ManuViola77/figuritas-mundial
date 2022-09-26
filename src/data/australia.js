@@ -1,15 +1,15 @@
-import aaronMooy from "./assets/australia/aaron-mooy.png";
-import ajdinHrustic from "./assets/australia/ajdin-hrustic.png";
-import azizBehich from "./assets/australia/aziz-behich.png";
-import escudoAustralia from "./assets/australia/escudo-australia.png";
-import harrySouttar from "./assets/australia/harry-souttar.png";
-import jacksonIrvine from "./assets/australia/jackson-irvine.png";
-import martinBoyle from "./assets/australia/martin-boyle.png";
-import mathewLeckie from "./assets/australia/mathew-leckie.png";
-import mathewRyan from "./assets/australia/mathew-ryan.png";
-import mitchellDuke from "./assets/australia/mitchell-duke.png";
-import rhyanGrant from "./assets/australia/rhyan-grant.png";
-import trentSainsbury from "./assets/australia/trent-sainsbury.png";
+import aaronMooy from "../assets/Australia/aaron-mooy.png";
+import ajdinHrustic from "../assets/Australia/ajdin-hrustic.png";
+import azizBehich from "../assets/Australia/aziz-behich.png";
+import escudoAustralia from "../assets/Australia/escudo-australia.png";
+import harrySouttar from "../assets/Australia/harry-souttar.png";
+import jacksonIrvine from "../assets/Australia/jackson-irvine.png";
+import martinBoyle from "../assets/Australia/martin-boyle.png";
+import mathewLeckie from "../assets/Australia/mathew-leckie.png";
+import mathewRyan from "../assets/Australia/mathew-ryan.png";
+import mitchellDuke from "../assets/Australia/mitchell-duke.png";
+import rhyanGrant from "../assets/Australia/rhyan-grant.png";
+import trentSainsbury from "../assets/Australia/trent-sainsbury.png";
 
 const australia = [
   {

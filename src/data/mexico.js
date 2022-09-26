@@ -1,15 +1,15 @@
-import carlosRodriguez from "./assets/mexico/carlos-rodriguez.png";
-import cesarMontes from "./assets/mexico/cesar-montes.png";
-import edsonAlvarez from "./assets/mexico/edson-alvarez.png";
-import escudoMexico from "./assets/mexico/escudo-mexico.png";
-import guillermoOchoa from "./assets/mexico/guillermo-ochoa.png";
-import hectorHerrera from "./assets/mexico/hector-herrera.png";
-import hirvingLozano from "./assets/mexico/hirving-lozano.png";
-import jesusGallardo from "./assets/mexico/jesus-gallardo.png";
-import jesusManuelCorona from "./assets/mexico/jesus-manuel-corona.png";
-import jorgeSanchez from "./assets/mexico/jorge-sanchez.png";
-import nestorAraujo from "./assets/mexico/nestor-araujo.png";
-import raulJimenez from "./assets/mexico/raul-jimenez.png";
+import carlosRodriguez from "../assets/Mexico/carlos-rodriguez.png";
+import cesarMontes from "../assets/Mexico/cesar-montes.png";
+import edsonAlvarez from "../assets/Mexico/edson-alvarez.png";
+import escudoMexico from "../assets/Mexico/escudo-mexico.png";
+import guillermoOchoa from "../assets/Mexico/guillermo-ochoa.png";
+import hectorHerrera from "../assets/Mexico/hector-herrera.png";
+import hirvingLozano from "../assets/Mexico/hirving-lozano.png";
+import jesusGallardo from "../assets/Mexico/jesus-gallardo.png";
+import jesusManuelCorona from "../assets/Mexico/jesus-manuel-corona.png";
+import jorgeSanchez from "../assets/Mexico/jorge-sanchez.png";
+import nestorAraujo from "../assets/Mexico/nestor-araujo.png";
+import raulJimenez from "../assets/Mexico/raul-jimenez.png";
 
 const mexico = [
   {

@@ -1,15 +1,15 @@
-import angelMena from "./assets/ecuador/angel-mena.png";
-import angeloPreciado from "./assets/ecuador/angelo-preciado.png";
-import carlosGruezo from "./assets/ecuador/carlos-gruezo.png";
-import ennerValencia from "./assets/ecuador/enner-valencia.png";
-import escudoEcuador from "./assets/ecuador/escudo-ecuador.png";
-import felixTorres from "./assets/ecuador/felix-torres.png";
-import gonzaloPlata from "./assets/ecuador/gonzalo-plata.png";
-import hernanGalindez from "./assets/ecuador/hernan-galindez.png";
-import michaelEstrada from "./assets/ecuador/michael-estrada.png";
-import moisesCaicedo from "./assets/ecuador/moises-caicedo.png";
-import pervisEstupinan from "./assets/ecuador/pervis-estupinan.png";
-import pieroHincapie from "./assets/ecuador/piero-hincapie.png";
+import angelMena from "../assets/Ecuador/angel-mena.png";
+import angeloPreciado from "../assets/Ecuador/angelo-preciado.png";
+import carlosGruezo from "../assets/Ecuador/carlos-gruezo.png";
+import ennerValencia from "../assets/Ecuador/enner-valencia.png";
+import escudoEcuador from "../assets/Ecuador/escudo-ecuador.png";
+import felixTorres from "../assets/Ecuador/felix-torres.png";
+import gonzaloPlata from "../assets/Ecuador/gonzalo-plata.png";
+import hernanGalindez from "../assets/Ecuador/hernan-galindez.png";
+import michaelEstrada from "../assets/Ecuador/michael-estrada.png";
+import moisesCaicedo from "../assets/Ecuador/moises-caicedo.png";
+import pervisEstupinan from "../assets/Ecuador/pervis-estupinan.png";
+import pieroHincapie from "../assets/Ecuador/piero-hincapie.png";
 
 const ecuador = [
   {

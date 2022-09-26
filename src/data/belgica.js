@@ -1,15 +1,15 @@
-import axelWitsel from "./assets/belgica/axel-witsel.png";
-import edenHazard from "./assets/belgica/eden-hazard.png";
-import escudoBelgica from "./assets/belgica/escudo-belgica.png";
-import janVertonghen from "./assets/belgica/jan-vertonghen.png";
-import jasonDenayer from "./assets/belgica/jason-denayer.png";
-import kevinDeBruyne from "./assets/belgica/kevin-de-bruyne.png";
-import romeluLukaku from "./assets/belgica/romelu-lukaku.png";
-import thibautCourtois from "./assets/belgica/thibaut-courtois.png";
-import thomasMeunier from "./assets/belgica/thomas-meunier.png";
-import tobyAlderweireld from "./assets/belgica/toby-alderweireld.png";
-import yannickCarrasco from "./assets/belgica/yannick-carrasco.png";
-import youriTielemans from "./assets/belgica/youri-tielemans.png";
+import axelWitsel from "../assets/Belgica/axel-witsel.png";
+import edenHazard from "../assets/Belgica/eden-hazard.png";
+import escudoBelgica from "../assets/Belgica/escudo-belgica.png";
+import janVertonghen from "../assets/Belgica/jan-vertonghen.png";
+import jasonDenayer from "../assets/Belgica/jason-denayer.png";
+import kevinDeBruyne from "../assets/Belgica/kevin-de-bruyne.png";
+import romeluLukaku from "../assets/Belgica/romelu-lukaku.png";
+import thibautCourtois from "../assets/Belgica/thibaut-courtois.png";
+import thomasMeunier from "../assets/Belgica/thomas-meunier.png";
+import tobyAlderweireld from "../assets/Belgica/toby-alderweireld.png";
+import yannickCarrasco from "../assets/Belgica/yannick-carrasco.png";
+import youriTielemans from "../assets/Belgica/youri-tielemans.png";
 
 const belgica = [
   {
