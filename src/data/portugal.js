@@ -1,100 +1,100 @@
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
-import yannSommer from "./assets/portugal/.png";
+import bernardoSilva from "./assets/portugal/bernardo-silva.png";
+import brunoFernandes from "./assets/portugal/bruno-fernandes.png";
+import cristianoRonaldo from "./assets/portugal/cristiano-ronaldo.png";
+import daniloPereira from "./assets/portugal/danilo-pereira.png";
+import diogoCosta from "./assets/portugal/diogo-costa.png";
+import diogoJota from "./assets/portugal/diogo-jota.png";
+import escudoPortugal from "./assets/portugal/escudo-portugal.png";
+import joaoCancelo from "./assets/portugal/joao-cancelo.png";
+import joaoMoutinho from "./assets/portugal/joao-moutinho.png";
+import pepe from "./assets/portugal/pepe.png";
+import raphaelGuerreiro from "./assets/portugal/raphael-guerreiro.png";
+import rubenDias from "./assets/portugal/ruben-dias.png";
 
 const portugal = [
   {
     id: 0,
-    image: "",
+    image: escudoPortugal,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Portugal",
   },
   {
     id: 1,
-    image: "",
+    image: diogoCosta,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Diogo Costa",
   },
   {
     id: 2,
-    image: "",
+    image: joaoCancelo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joao Cancelo",
   },
   {
     id: 3,
-    image: "",
+    image: pepe,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Pepe",
   },
   {
     id: 4,
-    image: "",
+    image: raphaelGuerreiro,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Raphael Guerreiro",
   },
   {
     id: 5,
-    image: "",
+    image: rubenDias,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ruben Dias",
   },
   {
     id: 6,
-    image: "",
+    image: bernardoSilva,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bernardo Silva",
   },
   {
     id: 7,
-    image: "",
+    image: brunoFernandes,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bruno Fernandes",
   },
   {
     id: 8,
-    image: "",
+    image: daniloPereira,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Danilo Pereira",
   },
   {
     id: 9,
-    image: "",
+    image: joaoMoutinho,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joao Moutinho",
   },
   {
     id: 10,
-    image: "",
+    image: cristianoRonaldo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Cristiano Ronaldo",
   },
   {
     id: 11,
-    image: "",
+    image: diogoJota,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Diogo Jota",
   },
 ];
 

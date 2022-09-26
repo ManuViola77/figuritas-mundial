@@ -1,100 +1,100 @@
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
-import yannSommer from "./assets/senegal/.png";
+import abdouDiallo from "./assets/senegal/abdou-diallo.png";
+import boulayeDia from "./assets/senegal/boulaye-dia.png";
+import bounaSarr from "./assets/senegal/bouna-sarr.png";
+import cheikhouKouyate from "./assets/senegal/cheikhou-kouyate.png";
+import edouardMendy from "./assets/senegal/edouard-mendy.png";
+import escudoSenegal from "./assets/senegal/escudo-senegal.png";
+import idrissaGueye from "./assets/senegal/idrissa-gueye.png";
+import ismailaSarr from "./assets/senegal/ismaila-sarr.png";
+import kalidouKoulibaly from "./assets/senegal/kalidou-koulibaly.png";
+import nampalysMendy from "./assets/senegal/nampalys-mendy.png";
+import sadioMane from "./assets/senegal/sadio-mane.png";
+import saliouCiss from "./assets/senegal/saliou-ciss.png";
 
 const senegal = [
   {
     id: 0,
-    image: "",
+    image: escudoSenegal,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Senegal",
   },
   {
     id: 1,
-    image: "",
+    image: edouardMendy,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Edouard Mendy",
   },
   {
     id: 2,
-    image: "",
+    image: saliouCiss,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Saliou Ciss",
   },
   {
     id: 3,
-    image: "",
+    image: abdouDiallo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Abdou Diallo",
   },
   {
     id: 4,
-    image: "",
+    image: kalidouKoulibaly,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kalidou Koulibaly",
   },
   {
     id: 5,
-    image: "",
+    image: bounaSarr,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bouna Sarr",
   },
   {
     id: 6,
-    image: "",
+    image: idrissaGueye,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Idrissa Gueye",
   },
   {
     id: 7,
-    image: "",
+    image: cheikhouKouyate,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Cheikhou Kouyate",
   },
   {
     id: 8,
-    image: "",
+    image: nampalysMendy,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nampalys Mendy",
   },
   {
     id: 9,
-    image: "",
+    image: boulayeDia,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Boulaye Dia",
   },
   {
     id: 10,
-    image: "",
+    image: sadioMane,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Sadio Mane",
   },
   {
     id: 11,
-    image: "",
+    image: ismailaSarr,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ismaila Sarr",
   },
 ];
 
