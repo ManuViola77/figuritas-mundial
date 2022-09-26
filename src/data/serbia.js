@@ -1,100 +1,100 @@
-/* import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
-import yannSommer from "../assets/serbia/.png";
- */
+import aleksandarMitrovic from "../assets/Serbia/aleksandar-mitrovic.png";
+import darkoLazovic from "../assets/Serbia/darko-lazovic.png";
+import dusanTadic from "../assets/Serbia/dusan-tadic.png";
+import dusanVlahovic from "../assets/Serbia/dusan-vlahovic.png";
+import escudoSerbia from "../assets/Serbia/escudo-serbia.png";
+import filipKostic from "../assets/Serbia/filip-kostic.png";
+import milosVeljkovic from "../assets/Serbia/milos-veljkovic.png";
+import nemanjaGudelj from "../assets/Serbia/nemanja-gudelj.png";
+import nikolaMileknovic from "../assets/Serbia/nikola-mileknovic.png";
+import predragRajkovic from "../assets/Serbia/predrag-rajkovic.png";
+import sergekMilinkovicSavic from "../assets/Serbia/sergek-milinkovic-savic.png";
+import strahinjaPavlovic from "../assets/Serbia/strahinja-pavlovic.png";
+
 const serbia = [
   {
     id: 0,
-    image: "",
+    image: escudoSerbia,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Serbia",
   },
   {
     id: 1,
-    image: "",
+    image: predragRajkovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Predrag Rajkovic",
   },
   {
     id: 2,
-    image: "",
+    image: nikolaMileknovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nikola Mileknovic",
   },
   {
     id: 3,
-    image: "",
+    image: strahinjaPavlovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Strahinja Pavlovic",
   },
   {
     id: 4,
-    image: "",
+    image: milosVeljkovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Milos Veljkovic",
   },
   {
     id: 5,
-    image: "",
+    image: nemanjaGudelj,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nemanja Gudelj",
   },
   {
     id: 6,
-    image: "",
+    image: filipKostic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Filip Kostic",
   },
   {
     id: 7,
-    image: "",
+    image: darkoLazovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Darko Lazovic",
   },
   {
     id: 8,
-    image: "",
+    image: sergekMilinkovicSavic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Sergek Milinkovic Savic",
   },
   {
     id: 9,
-    image: "",
+    image: aleksandarMitrovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aleksandar Mitrovic",
   },
   {
     id: 10,
-    image: "",
+    image: dusanTadic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Dusan Tadic",
   },
   {
     id: 11,
-    image: "",
+    image: dusanVlahovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Dusan Vlahovic",
   },
 ];
 

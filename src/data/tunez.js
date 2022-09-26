@@ -1,100 +1,100 @@
-/* import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
-import yannSommer from "../assets/tunez/.png";
- */
+import aissaLaidouni from "../assets/Tunez/aissa-laidouni.png";
+import aliMaaloul from "../assets/Tunez/ali-maaloul.png";
+import anisSlimane from "../assets/Tunez/anis-slimane.png";
+import bechirBenSaid from "../assets/Tunez/bechir-ben-said.png";
+import dylanBronn from "../assets/Tunez/dylan-bronn.png";
+import ellyesSkhiri from "../assets/Tunez/ellyes-skhiri.png";
+import escudoTunez from "../assets/Tunez/escudo-tunez.png";
+import mohamedDrager from "../assets/Tunez/mohamed-drager.png";
+import montassarTalabi from "../assets/Tunez/montassar-talabi.png";
+import seifeddineJaziri from "../assets/Tunez/seifeddine-jaziri.png";
+import wahbiKhazri from "../assets/Tunez/wahbi-khazri.png";
+import youssefMsakni from "../assets/Tunez/youssef-msakni.png";
+
 const tunez = [
   {
     id: 0,
-    image: "",
+    image: escudoTunez,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Tunez",
   },
   {
     id: 1,
-    image: "",
+    image: bechirBenSaid,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bechir BenSaid",
   },
   {
     id: 2,
-    image: "",
+    image: dylanBronn,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Dylan Bronn",
   },
   {
     id: 3,
-    image: "",
+    image: mohamedDrager,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mohamed Drager",
   },
   {
     id: 4,
-    image: "",
+    image: aliMaaloul,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ali Maaloul",
   },
   {
     id: 5,
-    image: "",
+    image: montassarTalabi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Montassar Talabi",
   },
   {
     id: 6,
-    image: "",
+    image: wahbiKhazri,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Wahbi Khazri",
   },
   {
     id: 7,
-    image: "",
+    image: aissaLaidouni,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aissa Laidouni",
   },
   {
     id: 8,
-    image: "",
+    image: ellyesSkhiri,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ellyes Skhiri",
   },
   {
     id: 9,
-    image: "",
+    image: anisSlimane,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Anis Slimane",
   },
   {
     id: 10,
-    image: "",
+    image: seifeddineJaziri,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Seifeddine Jaziri",
   },
   {
     id: 11,
-    image: "",
+    image: youssefMsakni,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Youssef Msakni",
   },
 ];
 

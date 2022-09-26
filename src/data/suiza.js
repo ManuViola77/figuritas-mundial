@@ -1,100 +1,100 @@
-/* import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
-import yannSommer from "../assets/suiza/.png";
- */
+import breelEmbolo from "../assets/Suiza/breel-embolo.png";
+import denisZakaria from "../assets/Suiza/denis-zakaria.png";
+import escudoSuiza from "../assets/Suiza/escudo-suiza.png";
+import granitXhaka from "../assets/Suiza/granit-xhaka.png";
+import harisSeferovic from "../assets/Suiza/haris-seferovic.png";
+import manuelAkanji from "../assets/Suiza/manuel-akanji.png";
+import nicoElvedi from "../assets/Suiza/nico-elvedi.png";
+import remoFreuler from "../assets/Suiza/remo-freuler.png";
+import ricardoRodriguez from "../assets/Suiza/ricardo-rodriguez.png";
+import silvanWidmer from "../assets/Suiza/silvan-widmer.png";
+import xherdanShaqiri from "../assets/Suiza/xherdan-shaqiri.png";
+import yannSommer from "../assets/Suiza/yann-sommer.png";
+
 const suiza = [
   {
     id: 0,
-    image: "",
+    image: escudoSuiza,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Suiza",
   },
   {
     id: 1,
-    image: "",
+    image: yannSommer,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Yann Sommer",
   },
   {
     id: 2,
-    image: "",
+    image: manuelAkanji,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Manuel Akanji",
   },
   {
     id: 3,
-    image: "",
+    image: nicoElvedi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Nico Elvedi",
   },
   {
     id: 4,
-    image: "",
+    image: ricardoRodriguez,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ricardo Rodriguez",
   },
   {
     id: 5,
-    image: "",
+    image: silvanWidmer,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Silvan Widmer",
   },
   {
     id: 6,
-    image: "",
+    image: remoFreuler,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Remo Freuler",
   },
   {
     id: 7,
-    image: "",
+    image: xherdanShaqiri,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Xherdan Shaqiri",
   },
   {
     id: 8,
-    image: "",
+    image: granitXhaka,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Granit Xhaka",
   },
   {
     id: 9,
-    image: "",
+    image: denisZakaria,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Denis Zakaria",
   },
   {
     id: 10,
-    image: "",
+    image: breelEmbolo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Breel Embolo",
   },
   {
     id: 11,
-    image: "",
+    image: harisSeferovic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Haris Seferovic",
   },
 ];
 
