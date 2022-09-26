@@ -1,100 +1,100 @@
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
-import yannSommer from "./assets/costaRica/.png";
+import anthonyContreras from "./assets/costaRica/anthony-contreras.png";
+import bryanOviedo from "./assets/costaRica/bryan-ovideo.png";
+import bryanRuiz from "./assets/costaRica/bryan-ruiz.png";
+import celsoBorges from "./assets/costaRica/celso-borges.png";
+import escudoCostaRica from "./assets/costaRica/escudo-costa-rica.png";
+import franciscoCalvo from "./assets/costaRica/francisco-calvo.png";
+import jewisonBennette from "./assets/costaRica/jewison-bennette.png";
+import joelCampbell from "./assets/costaRica/joel-campbell.png";
+import keylorNavas from "./assets/costaRica/keylor-navas.png";
+import keysherFuller from "./assets/costaRica/keysher-fuller.png";
+import oscarDuarte from "./assets/costaRica/oscar-duarte.png";
+import yeltsinTejeda from "./assets/costaRica/yeltsin-tejeda.png";
 
 const costaRica = [
   {
     id: 0,
-    image: "",
+    image: escudoCostaRica,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Costa Rica",
   },
   {
     id: 1,
-    image: "",
+    image: keylorNavas,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Keylor Navas",
   },
   {
     id: 2,
-    image: "",
+    image: franciscoCalvo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Francisco Calvo",
   },
   {
     id: 3,
-    image: "",
+    image: oscarDuarte,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Oscar Duarte",
   },
   {
     id: 4,
-    image: "",
+    image: keysherFuller,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Keysher Fuller",
   },
   {
     id: 5,
-    image: "",
+    image: bryanOviedo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bryan Oviedo",
   },
   {
     id: 6,
-    image: "",
+    image: celsoBorges,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Celso Borges",
   },
   {
     id: 7,
-    image: "",
+    image: bryanRuiz,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bryan Ruiz",
   },
   {
     id: 8,
-    image: "",
+    image: yeltsinTejeda,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Yeltsin Tejeda",
   },
   {
     id: 9,
-    image: "",
+    image: jewisonBennette,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jewison Bennette",
   },
   {
     id: 10,
-    image: "",
+    image: joelCampbell,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joel Campbell",
   },
   {
     id: 11,
-    image: "",
+    image: anthonyContreras,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Anthony Contreras",
   },
 ];
 

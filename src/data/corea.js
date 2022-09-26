@@ -1,100 +1,100 @@
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
-import yannSommer from "./assets/corea/.png";
+import escudoCorea from "./assets/corea/escudo-korea-del-sur.png";
+import heeChanHwang from "./assets/corea/hee-chan-hwang.png";
+import heungMinSon from "./assets/corea/heung-min-son.png";
+import inBeomHwang from "./assets/corea/in-beom-hwang.png";
+import jaeSungLee from "./assets/corea/jae-sung-lee.png";
+import jinSuKim from "./assets/corea/jin-su-kim.png";
+import minJaeKim from "./assets/corea/min-jae-kim.png";
+import seungGyuKim from "./assets/corea/seung-gyu-kim.png";
+import uiJoHwang from "./assets/corea/ui-jo-hwang.png";
+import wooYoungJung from "./assets/corea/woo-young-jung.png";
+import yongLee from "./assets/corea/yong-lee.png";
+import youngGwonKim from "./assets/corea/young-gwon-kim.png";
 
 const corea = [
   {
     id: 0,
-    image: "",
+    image: escudoCorea,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Corea",
   },
   {
     id: 1,
-    image: "",
+    image: seungGyuKim,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Seung Gyu Kim",
   },
   {
     id: 2,
-    image: "",
+    image: minJaeKim,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Min Jae Kim",
   },
   {
     id: 3,
-    image: "",
+    image: youngGwonKim,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Young Gwon Kim",
   },
   {
     id: 4,
-    image: "",
+    image: jinSuKim,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jin Su Kim",
   },
   {
     id: 5,
-    image: "",
+    image: yongLee,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Yong Lee",
   },
   {
     id: 6,
-    image: "",
+    image: inBeomHwang,
     have: false,
     haveGold: false,
-    name: "",
+    name: "In Beom Hwang",
   },
   {
     id: 7,
-    image: "",
+    image: wooYoungJung,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Woo Young Jung",
   },
   {
     id: 8,
-    image: "",
+    image: jaeSungLee,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jae Sung Lee",
   },
   {
     id: 9,
-    image: "",
+    image: heeChanHwang,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Hee Chan Hwang",
   },
   {
     id: 10,
-    image: "",
+    image: uiJoHwang,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ui Jo Hwang",
   },
   {
     id: 11,
-    image: "",
+    image: heungMinSon,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Heung Min Son",
   },
 ];
 

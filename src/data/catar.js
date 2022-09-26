@@ -1,100 +1,100 @@
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
-import yannSommer from "./assets/catar/.png";
+import abdulazizHatem from "./assets/catar/abdulaziz-hatem.png";
+import abdulkarimHassan from "./assets/catar/abdulkarim-hassan.png";
+import akramHassanAfif from "./assets/catar/akram-hassan-afif.png";
+import almoezAli from "./assets/catar/almoez-ali.png";
+import bassamAlrawi from "./assets/catar/bassam-alrawi.png";
+import boualemKhoukhi from "./assets/catar/boualem-khoukhi.png";
+import escudoCatar from "./assets/catar/escudo-qatar.png";
+import hasanAlHaydos from "./assets/catar/hasan-al-haydos.png";
+import karimBoudiaf from "./assets/catar/karim-boudiaf.png";
+import pedroMiguel from "./assets/catar/pedro-miguel.png";
+import saadAlSheeb from "./assets/catar/saad-al-sheeb.png";
+import tarekSalman from "./assets/catar/tarek-salman.png";
 
 const catar = [
   {
     id: 0,
-    image: "",
+    image: escudoCatar,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Catar",
   },
   {
     id: 1,
-    image: "",
+    image: saadAlSheeb,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Saad Al Sheeb",
   },
   {
     id: 2,
-    image: "",
+    image: bassamAlrawi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Bassam Alrawi",
   },
   {
     id: 3,
-    image: "",
+    image: abdulkarimHassan,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Abdulkarim Hassan",
   },
   {
     id: 4,
-    image: "",
+    image: boualemKhoukhi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Boualem Khoukhi",
   },
   {
     id: 5,
-    image: "",
+    image: pedroMiguel,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Pedro Miguel",
   },
   {
     id: 6,
-    image: "",
+    image: tarekSalman,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Tarek Salman",
   },
   {
     id: 7,
-    image: "",
+    image: karimBoudiaf,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Karim Boudiaf",
   },
   {
     id: 8,
-    image: "",
+    image: abdulazizHatem,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Abdulaziz Hatem",
   },
   {
     id: 9,
-    image: "",
+    image: akramHassanAfif,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Akram Hassan Afif",
   },
   {
     id: 10,
-    image: "",
+    image: hasanAlHaydos,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Hasan Al Haydos",
   },
   {
     id: 11,
-    image: "",
+    image: almoezAli,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Almoez Ali",
   },
 ];
 
