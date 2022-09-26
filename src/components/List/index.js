@@ -1,13 +1,19 @@
 import React, { useEffect, useState, useMemo } from "react";
-import { getFilteredData } from "../../data/index";
+
+import Card from "../Card";
 import Input from "../Input";
+import data, { getFilteredData } from "../../data/index";
+import { useLocalStorageState } from "../../utils/utils";
 
 const List = () => {
   const [filters, setFilters] = useState({});
+  const [storageData, setStorageData] = useLocalStorageState("data", data);
 
-  const data = useMemo(() => getFilteredData(filters), [filters]);
+  const dataToShow = useMemo(() => getFilteredData(storageData, filters), [
+    filters,
+    storageData,
+  ]);
   console.log("filters: ", filters);
-  console.log("data: ", data);
 
   const handleApplyFilters = () => {
     setFilters({
@@ -26,6 +32,11 @@ const List = () => {
         <button type="button" onClick={handleApplyFilters}>
           Aplicar
         </button>
+        <div className="cards-list">
+          {dataToShow.map((countryItems) =>
+            countryItems.map((item) => <Card key={item.id} item={item}></Card>)
+          )}
+        </div>
       </form>
     </div>
   );

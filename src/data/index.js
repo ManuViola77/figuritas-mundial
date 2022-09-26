@@ -102,17 +102,20 @@ const data = {
   ],
 };
 
-export const getFilteredData = ({
-  country: countryFilter,
-  have: haveFilter,
-  haveGold: haveGoldFilter,
-  name: nameFilter,
-  id: idFilter,
-}) =>
-  data.data.map((item, index) => {
+export const getFilteredData = (
+  oldData,
+  {
+    country: countryFilter,
+    have: haveFilter,
+    haveGold: haveGoldFilter,
+    name: nameFilter,
+    id: idFilter,
+  }
+) =>
+  oldData.data.map((item, index) => {
     const { have, haveGold, name, id } = item;
 
-    const country = data.countryMapping[index];
+    const country = oldData.countryMapping[index];
     const matchCountry = country === countryFilter || !countryFilter;
     const matchHave = have === haveFilter || !haveFilter;
     const matchHaveGold = haveGold === haveGoldFilter || !haveGoldFilter;
@@ -122,7 +125,7 @@ export const getFilteredData = ({
     const isMatch =
       matchCountry && matchHave && matchHaveGold && matchName && matchId;
 
-    return isMatch ? item : null;
+    return isMatch ? item : [];
   });
 
 export default data;
