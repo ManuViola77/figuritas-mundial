@@ -27,7 +27,6 @@ const List = () => {
 
   return (
     <div>
-      <p>Filtros:</p>
       <form>
         <div className="filters-container">
           <Input
