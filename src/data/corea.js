@@ -17,6 +17,8 @@ const corea = [
     image: escudoCorea,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Corea",
   },
   {
@@ -24,6 +26,8 @@ const corea = [
     image: seungGyuKim,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Seung Gyu Kim",
   },
   {
@@ -31,6 +35,8 @@ const corea = [
     image: minJaeKim,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Min Jae Kim",
   },
   {
@@ -38,6 +44,8 @@ const corea = [
     image: youngGwonKim,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Young Gwon Kim",
   },
   {
@@ -45,6 +53,8 @@ const corea = [
     image: jinSuKim,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jin Su Kim",
   },
   {
@@ -52,6 +62,8 @@ const corea = [
     image: yongLee,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yong Lee",
   },
   {
@@ -59,6 +71,8 @@ const corea = [
     image: inBeomHwang,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "In Beom Hwang",
   },
   {
@@ -66,6 +80,8 @@ const corea = [
     image: wooYoungJung,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Woo Young Jung",
   },
   {
@@ -73,6 +89,8 @@ const corea = [
     image: jaeSungLee,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jae Sung Lee",
   },
   {
@@ -80,6 +98,8 @@ const corea = [
     image: heeChanHwang,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hee Chan Hwang",
   },
   {
@@ -87,6 +107,8 @@ const corea = [
     image: uiJoHwang,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ui Jo Hwang",
   },
   {
@@ -94,6 +116,8 @@ const corea = [
     image: heungMinSon,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Heung Min Son",
   },
 ];

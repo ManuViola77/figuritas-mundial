@@ -17,6 +17,8 @@ const serbia = [
     image: escudoSerbia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Serbia",
   },
   {
@@ -24,6 +26,8 @@ const serbia = [
     image: predragRajkovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Predrag Rajkovic",
   },
   {
@@ -31,6 +35,8 @@ const serbia = [
     image: nikolaMileknovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nikola Mileknovic",
   },
   {
@@ -38,6 +44,8 @@ const serbia = [
     image: strahinjaPavlovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Strahinja Pavlovic",
   },
   {
@@ -45,6 +53,8 @@ const serbia = [
     image: milosVeljkovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Milos Veljkovic",
   },
   {
@@ -52,6 +62,8 @@ const serbia = [
     image: nemanjaGudelj,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nemanja Gudelj",
   },
   {
@@ -59,6 +71,8 @@ const serbia = [
     image: filipKostic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Filip Kostic",
   },
   {
@@ -66,6 +80,8 @@ const serbia = [
     image: darkoLazovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Darko Lazovic",
   },
   {
@@ -73,6 +89,8 @@ const serbia = [
     image: sergekMilinkovicSavic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sergek Milinkovic Savic",
   },
   {
@@ -80,6 +98,8 @@ const serbia = [
     image: aleksandarMitrovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aleksandar Mitrovic",
   },
   {
@@ -87,6 +107,8 @@ const serbia = [
     image: dusanTadic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dusan Tadic",
   },
   {
@@ -94,6 +116,8 @@ const serbia = [
     image: dusanVlahovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dusan Vlahovic",
   },
 ];

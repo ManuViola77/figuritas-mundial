@@ -17,6 +17,8 @@ const tunez = [
     image: escudoTunez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Tunez",
   },
   {
@@ -24,6 +26,8 @@ const tunez = [
     image: bechirBenSaid,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bechir BenSaid",
   },
   {
@@ -31,6 +35,8 @@ const tunez = [
     image: dylanBronn,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dylan Bronn",
   },
   {
@@ -38,6 +44,8 @@ const tunez = [
     image: mohamedDrager,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mohamed Drager",
   },
   {
@@ -45,6 +53,8 @@ const tunez = [
     image: aliMaaloul,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ali Maaloul",
   },
   {
@@ -52,6 +62,8 @@ const tunez = [
     image: montassarTalabi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Montassar Talabi",
   },
   {
@@ -59,6 +71,8 @@ const tunez = [
     image: wahbiKhazri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Wahbi Khazri",
   },
   {
@@ -66,6 +80,8 @@ const tunez = [
     image: aissaLaidouni,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aissa Laidouni",
   },
   {
@@ -73,6 +89,8 @@ const tunez = [
     image: ellyesSkhiri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ellyes Skhiri",
   },
   {
@@ -80,6 +98,8 @@ const tunez = [
     image: anisSlimane,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Anis Slimane",
   },
   {
@@ -87,6 +107,8 @@ const tunez = [
     image: seifeddineJaziri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Seifeddine Jaziri",
   },
   {
@@ -94,6 +116,8 @@ const tunez = [
     image: youssefMsakni,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Youssef Msakni",
   },
 ];

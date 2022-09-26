@@ -17,6 +17,8 @@ const alemania = [
     image: escudoAlemania,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Alemania",
   },
   {
@@ -24,6 +26,8 @@ const alemania = [
     image: manuelNeuer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Manuel Neuer",
   },
   {
@@ -31,6 +35,8 @@ const alemania = [
     image: thiloKehrer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thilo Kehrer",
   },
   {
@@ -38,6 +44,8 @@ const alemania = [
     image: davidRaum,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "David Raum",
   },
   {
@@ -45,6 +53,8 @@ const alemania = [
     image: antonioRudiger,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Antonio Rudiger",
   },
   {
@@ -52,6 +62,8 @@ const alemania = [
     image: niklasSule,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Niklas Sule",
   },
   {
@@ -59,6 +71,8 @@ const alemania = [
     image: leonGortzka,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Leon Gortzka",
   },
   {
@@ -66,6 +80,8 @@ const alemania = [
     image: kaiHavertz,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kai Havertz",
   },
   {
@@ -73,6 +89,8 @@ const alemania = [
     image: joshuaKimmich,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joshua Kimmich",
   },
   {
@@ -80,6 +98,8 @@ const alemania = [
     image: sergeGnabry,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Serge Gnabry",
   },
   {
@@ -87,6 +107,8 @@ const alemania = [
     image: thomasMuller,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thomas Muller",
   },
   {
@@ -94,6 +116,8 @@ const alemania = [
     image: timoWerner,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Timo Werner",
   },
 ];

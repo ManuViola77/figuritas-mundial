@@ -17,6 +17,8 @@ const mexico = [
     image: escudoMexico,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Mexico",
   },
   {
@@ -24,6 +26,8 @@ const mexico = [
     image: guillermoOchoa,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Guillermo Ochoa",
   },
   {
@@ -31,6 +35,8 @@ const mexico = [
     image: nestorAraujo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nestor Araujo",
   },
   {
@@ -38,6 +44,8 @@ const mexico = [
     image: jesusGallardo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jesus Gallardo",
   },
   {
@@ -45,6 +53,8 @@ const mexico = [
     image: cesarMontes,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cesar Montes",
   },
   {
@@ -52,6 +62,8 @@ const mexico = [
     image: jorgeSanchez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jorge Sanchez",
   },
   {
@@ -59,6 +71,8 @@ const mexico = [
     image: edsonAlvarez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Edson Alvarez",
   },
   {
@@ -66,6 +80,8 @@ const mexico = [
     image: jesusManuelCorona,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jesus Manuel Corona",
   },
   {
@@ -73,6 +89,8 @@ const mexico = [
     image: hectorHerrera,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hector Herrera",
   },
   {
@@ -80,6 +98,8 @@ const mexico = [
     image: carlosRodriguez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Carlos Rodriguez",
   },
   {
@@ -87,6 +107,8 @@ const mexico = [
     image: raulJimenez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Raul Jimenez",
   },
   {
@@ -94,6 +116,8 @@ const mexico = [
     image: hirvingLozano,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hirving Lozano",
   },
 ];

@@ -17,6 +17,8 @@ const costaRica = [
     image: escudoCostaRica,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Costa Rica",
   },
   {
@@ -24,6 +26,8 @@ const costaRica = [
     image: keylorNavas,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Keylor Navas",
   },
   {
@@ -31,6 +35,8 @@ const costaRica = [
     image: franciscoCalvo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Francisco Calvo",
   },
   {
@@ -38,6 +44,8 @@ const costaRica = [
     image: oscarDuarte,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Oscar Duarte",
   },
   {
@@ -45,6 +53,8 @@ const costaRica = [
     image: keysherFuller,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Keysher Fuller",
   },
   {
@@ -52,6 +62,8 @@ const costaRica = [
     image: bryanOviedo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bryan Oviedo",
   },
   {
@@ -59,6 +71,8 @@ const costaRica = [
     image: celsoBorges,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Celso Borges",
   },
   {
@@ -66,6 +80,8 @@ const costaRica = [
     image: bryanRuiz,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bryan Ruiz",
   },
   {
@@ -73,6 +89,8 @@ const costaRica = [
     image: yeltsinTejeda,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yeltsin Tejeda",
   },
   {
@@ -80,6 +98,8 @@ const costaRica = [
     image: jewisonBennette,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jewison Bennette",
   },
   {
@@ -87,6 +107,8 @@ const costaRica = [
     image: joelCampbell,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joel Campbell",
   },
   {
@@ -94,6 +116,8 @@ const costaRica = [
     image: anthonyContreras,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Anthony Contreras",
   },
 ];

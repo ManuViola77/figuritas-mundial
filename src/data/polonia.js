@@ -17,6 +17,8 @@ const polonia = [
     image: escudoPolonia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Polonia",
   },
   {
@@ -24,6 +26,8 @@ const polonia = [
     image: wojciechSzczesny,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Wojciech Szczesny",
   },
   {
@@ -31,6 +35,8 @@ const polonia = [
     image: janBednarek,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jan Bednarek",
   },
   {
@@ -38,6 +44,8 @@ const polonia = [
     image: bartoszBereszynski,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bartosz Bereszynski",
   },
   {
@@ -45,6 +53,8 @@ const polonia = [
     image: mattyCash,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Matty Cash",
   },
   {
@@ -52,6 +62,8 @@ const polonia = [
     image: kamilGlik,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kamil Glik",
   },
   {
@@ -59,6 +71,8 @@ const polonia = [
     image: kamilJozwiak,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kamil Jozwiak",
   },
   {
@@ -66,6 +80,8 @@ const polonia = [
     image: grzegorzKrychowiak,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Grzegorz Krychowiak",
   },
   {
@@ -73,6 +89,8 @@ const polonia = [
     image: jakubModer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jakub Moder",
   },
   {
@@ -80,6 +98,8 @@ const polonia = [
     image: piotrZielinski,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Piotr Zielinski",
   },
   {
@@ -87,6 +107,8 @@ const polonia = [
     image: robertLewandowski,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Robert Lewandowski",
   },
   {
@@ -94,6 +116,8 @@ const polonia = [
     image: arkadiuszMilik,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Arkadiusz Milik",
   },
 ];

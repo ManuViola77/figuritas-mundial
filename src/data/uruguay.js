@@ -17,6 +17,8 @@ const uruguay = [
     image: escudoUruguay,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Eescudo Uruguay",
   },
   {
@@ -24,6 +26,8 @@ const uruguay = [
     image: fernandoMuslera,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Fernando Muslera",
   },
   {
@@ -31,6 +35,8 @@ const uruguay = [
     image: ronaldAraujo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ronald Araujo",
   },
   {
@@ -38,6 +44,8 @@ const uruguay = [
     image: joseMariaGimenez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jose Maria Gimenez",
   },
   {
@@ -45,6 +53,8 @@ const uruguay = [
     image: diegoGodin,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Diego Godin",
   },
   {
@@ -52,6 +62,8 @@ const uruguay = [
     image: mathiasOlivera,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mathias Olivera",
   },
   {
@@ -59,6 +71,8 @@ const uruguay = [
     image: rodrigoBentancur,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Rodrigo Bentancur",
   },
   {
@@ -66,6 +80,8 @@ const uruguay = [
     image: giorgianDeArrascaeta,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Giorgian De Arrascaeta",
   },
   {
@@ -73,6 +89,8 @@ const uruguay = [
     image: nicolasDeLaCruz,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nicolas De La Cruz",
   },
   {
@@ -80,6 +98,8 @@ const uruguay = [
     image: federicoValverde,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Federico Valverde",
   },
   {
@@ -87,6 +107,8 @@ const uruguay = [
     image: edinsonCavani,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Edinson Cavani",
   },
   {
@@ -94,6 +116,8 @@ const uruguay = [
     image: luisSuarez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Luis Suarez",
   },
 ];

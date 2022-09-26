@@ -17,6 +17,8 @@ const croacia = [
     image: escudoCroacia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Croacia",
   },
   {
@@ -24,6 +26,8 @@ const croacia = [
     image: dominikLivakovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dominik Livakovic",
   },
   {
@@ -31,6 +35,8 @@ const croacia = [
     image: joskoGvardiol,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "JoskoGvardiol",
   },
   {
@@ -38,6 +44,8 @@ const croacia = [
     image: josipJuranovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Josip Juranovic",
   },
   {
@@ -45,6 +53,8 @@ const croacia = [
     image: dejanLovren,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dejan Lovren",
   },
   {
@@ -52,6 +62,8 @@ const croacia = [
     image: bornaSosa,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Borna Sosa",
   },
   {
@@ -59,6 +71,8 @@ const croacia = [
     image: marceloBrozovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Marcelo Brozovic",
   },
   {
@@ -66,6 +80,8 @@ const croacia = [
     image: mateoKovacic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mateo Kovacic",
   },
   {
@@ -73,6 +89,8 @@ const croacia = [
     image: lukaModric,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Luka Modric",
   },
   {
@@ -80,6 +98,8 @@ const croacia = [
     image: ivanPerisic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ivan Perisic",
   },
   {
@@ -87,6 +107,8 @@ const croacia = [
     image: nikolaVlasic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nikola Vlasic",
   },
   {
@@ -94,6 +116,8 @@ const croacia = [
     image: andrejKramaric,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andrej Kramaric",
   },
 ];

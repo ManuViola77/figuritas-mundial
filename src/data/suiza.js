@@ -17,6 +17,8 @@ const suiza = [
     image: escudoSuiza,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Suiza",
   },
   {
@@ -24,6 +26,8 @@ const suiza = [
     image: yannSommer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yann Sommer",
   },
   {
@@ -31,6 +35,8 @@ const suiza = [
     image: manuelAkanji,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Manuel Akanji",
   },
   {
@@ -38,6 +44,8 @@ const suiza = [
     image: nicoElvedi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nico Elvedi",
   },
   {
@@ -45,6 +53,8 @@ const suiza = [
     image: ricardoRodriguez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ricardo Rodriguez",
   },
   {
@@ -52,6 +62,8 @@ const suiza = [
     image: silvanWidmer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Silvan Widmer",
   },
   {
@@ -59,6 +71,8 @@ const suiza = [
     image: remoFreuler,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Remo Freuler",
   },
   {
@@ -66,6 +80,8 @@ const suiza = [
     image: xherdanShaqiri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Xherdan Shaqiri",
   },
   {
@@ -73,6 +89,8 @@ const suiza = [
     image: granitXhaka,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Granit Xhaka",
   },
   {
@@ -80,6 +98,8 @@ const suiza = [
     image: denisZakaria,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Denis Zakaria",
   },
   {
@@ -87,6 +107,8 @@ const suiza = [
     image: breelEmbolo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Breel Embolo",
   },
   {
@@ -94,6 +116,8 @@ const suiza = [
     image: harisSeferovic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Haris Seferovic",
   },
 ];

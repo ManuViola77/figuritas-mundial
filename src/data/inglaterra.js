@@ -17,6 +17,8 @@ const inglaterra = [
     image: escudoInglaterra,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Inglaterra",
   },
   {
@@ -24,6 +26,8 @@ const inglaterra = [
     image: jordanPickford,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jordan Pickford",
   },
   {
@@ -31,6 +35,8 @@ const inglaterra = [
     image: harryMaguire,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Harry Maguire",
   },
   {
@@ -38,6 +44,8 @@ const inglaterra = [
     image: lukeShaw,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Luke Shaw",
   },
   {
@@ -45,6 +53,8 @@ const inglaterra = [
     image: johnStones,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "John Stones",
   },
   {
@@ -52,6 +62,8 @@ const inglaterra = [
     image: kyleWalker,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kyle Walker",
   },
   {
@@ -59,6 +71,8 @@ const inglaterra = [
     image: masonMount,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mason Mount",
   },
   {
@@ -66,6 +80,8 @@ const inglaterra = [
     image: kalvinPhillips,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kalvin Phillips",
   },
   {
@@ -73,6 +89,8 @@ const inglaterra = [
     image: declanRice,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Declan Rice",
   },
   {
@@ -80,6 +98,8 @@ const inglaterra = [
     image: philFoden,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Phil Foden",
   },
   {
@@ -87,6 +107,8 @@ const inglaterra = [
     image: harryKane,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Harry Kane",
   },
   {
@@ -94,6 +116,8 @@ const inglaterra = [
     image: raheemSterling,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Raheem Sterling",
   },
 ];

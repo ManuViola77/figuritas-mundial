@@ -17,6 +17,8 @@ const iran = [
     image: escudoIran,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Iran",
   },
   {
@@ -24,6 +26,8 @@ const iran = [
     image: alirezaBeiranvand,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alireza Beiranvand",
   },
   {
@@ -31,6 +35,8 @@ const iran = [
     image: hosseinKanaani,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hossein Kanaani",
   },
   {
@@ -38,6 +44,8 @@ const iran = [
     image: shojaKhalilzadeh,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Shoja Khalilzadeh",
   },
   {
@@ -45,6 +53,8 @@ const iran = [
     image: miladMohammadi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Milad Mohammadi",
   },
   {
@@ -52,6 +62,8 @@ const iran = [
     image: omidNoorafkan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Omid Noorafkan",
   },
   {
@@ -59,6 +71,8 @@ const iran = [
     image: saeidEzatolahi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Saeid Ezatolahi",
   },
   {
@@ -66,6 +80,8 @@ const iran = [
     image: aliGholizadeh,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ali Gholizadeh",
   },
   {
@@ -73,6 +89,8 @@ const iran = [
     image: alirezaJahanbakhsh,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alireza Jahanbakhsh",
   },
   {
@@ -80,6 +98,8 @@ const iran = [
     image: ahmadNourollahi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ahmad Nourollahi",
   },
   {
@@ -87,6 +107,8 @@ const iran = [
     image: sardarAzmoun,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sardar Azmoun",
   },
   {
@@ -94,6 +116,8 @@ const iran = [
     image: mehdiTaremi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mehdi Taremi",
   },
 ];

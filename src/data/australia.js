@@ -17,6 +17,8 @@ const australia = [
     image: escudoAustralia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Australia",
   },
   {
@@ -24,6 +26,8 @@ const australia = [
     image: mathewRyan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mathew Ryan",
   },
   {
@@ -31,6 +35,8 @@ const australia = [
     image: azizBehich,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aziz Behich",
   },
   {
@@ -38,6 +44,8 @@ const australia = [
     image: rhyanGrant,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Rhyan Grant",
   },
   {
@@ -45,6 +53,8 @@ const australia = [
     image: trentSainsbury,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Trent Sainsbury",
   },
   {
@@ -52,6 +62,8 @@ const australia = [
     image: harrySouttar,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Harry Souttar",
   },
   {
@@ -59,6 +71,8 @@ const australia = [
     image: ajdinHrustic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ajdin Hrustic",
   },
   {
@@ -66,6 +80,8 @@ const australia = [
     image: jacksonIrvine,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jackson Irvine",
   },
   {
@@ -73,6 +89,8 @@ const australia = [
     image: aaronMooy,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aaron Mooy",
   },
   {
@@ -80,6 +98,8 @@ const australia = [
     image: martinBoyle,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Martin Boyle",
   },
   {
@@ -87,6 +107,8 @@ const australia = [
     image: mitchellDuke,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mitchell Duke",
   },
   {
@@ -94,6 +116,8 @@ const australia = [
     image: mathewLeckie,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mathew Leckie",
   },
 ];

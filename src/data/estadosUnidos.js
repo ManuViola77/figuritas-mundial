@@ -17,6 +17,8 @@ const estadosUnidos = [
     image: escudoUsa,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Usa",
   },
   {
@@ -24,6 +26,8 @@ const estadosUnidos = [
     image: mattTurner,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Matt Turner",
   },
   {
@@ -31,6 +35,8 @@ const estadosUnidos = [
     image: serginoDest,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sergino Dest",
   },
   {
@@ -38,6 +44,8 @@ const estadosUnidos = [
     image: antoneeRobinson,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Antonee Robinson",
   },
   {
@@ -45,6 +53,8 @@ const estadosUnidos = [
     image: deandreYedlin,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Deandre Yedlin",
   },
   {
@@ -52,6 +62,8 @@ const estadosUnidos = [
     image: walkerZimmerman,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Walker Zimmerman",
   },
   {
@@ -59,6 +71,8 @@ const estadosUnidos = [
     image: tylerAdams,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Tyler Adams",
   },
   {
@@ -66,6 +80,8 @@ const estadosUnidos = [
     image: westonMckennie,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Weston Mckennie",
   },
   {
@@ -73,6 +89,8 @@ const estadosUnidos = [
     image: ricardoPepi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ricardo Pepi",
   },
   {
@@ -80,6 +98,8 @@ const estadosUnidos = [
     image: christianPulisic,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Christian Pulisic",
   },
   {
@@ -87,6 +107,8 @@ const estadosUnidos = [
     image: giovanniReyna,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Giovanni Reyna",
   },
   {
@@ -94,6 +116,8 @@ const estadosUnidos = [
     image: timothyWeah,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Timothy Weah",
   },
 ];

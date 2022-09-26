@@ -17,6 +17,8 @@ const canada = [
     image: escudoCanada,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Canada",
   },
   {
@@ -24,6 +26,8 @@ const canada = [
     image: milanBorjan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Milan Borjan",
   },
   {
@@ -31,6 +35,8 @@ const canada = [
     image: alistairJohnston,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alistair Johnston",
   },
   {
@@ -38,6 +44,8 @@ const canada = [
     image: richieLaryea,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Richie Laryea",
   },
   {
@@ -45,6 +53,8 @@ const canada = [
     image: kamalMiller,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kamal Miller",
   },
   {
@@ -52,6 +62,8 @@ const canada = [
     image: stevenVitoria,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Steven Vitoria",
   },
   {
@@ -59,6 +71,8 @@ const canada = [
     image: tajonBuchanan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Tajon Buchanan",
   },
   {
@@ -66,6 +80,8 @@ const canada = [
     image: alphonsoDavies,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alphonso Davies",
   },
   {
@@ -73,6 +89,8 @@ const canada = [
     image: stephenEustaquio,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Stephen Eustaquio",
   },
   {
@@ -80,6 +98,8 @@ const canada = [
     image: atibaHutchinson,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Atiba Hutchinson",
   },
   {
@@ -87,6 +107,8 @@ const canada = [
     image: jonathanDavid,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jonathan David",
   },
   {
@@ -94,6 +116,8 @@ const canada = [
     image: cyleLarin,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cyle Larin",
   },
 ];

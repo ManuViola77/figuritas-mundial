@@ -17,6 +17,8 @@ const belgica = [
     image: escudoBelgica,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Belgica",
   },
   {
@@ -24,6 +26,8 @@ const belgica = [
     image: thibautCourtois,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thibaut Courtois",
   },
   {
@@ -31,6 +35,8 @@ const belgica = [
     image: tobyAlderweireld,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Toby Alderweireld",
   },
   {
@@ -38,6 +44,8 @@ const belgica = [
     image: jasonDenayer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jason Denayer",
   },
   {
@@ -45,6 +53,8 @@ const belgica = [
     image: thomasMeunier,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thomas Meunier",
   },
   {
@@ -52,6 +62,8 @@ const belgica = [
     image: janVertonghen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jan Vertonghen",
   },
   {
@@ -59,6 +71,8 @@ const belgica = [
     image: yannickCarrasco,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yannick Carrasco",
   },
   {
@@ -66,6 +80,8 @@ const belgica = [
     image: kevinDeBruyne,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kevin De Bruyne",
   },
   {
@@ -73,6 +89,8 @@ const belgica = [
     image: youriTielemans,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Youri Tielemans",
   },
   {
@@ -80,6 +98,8 @@ const belgica = [
     image: axelWitsel,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Axel Witsel",
   },
   {
@@ -87,6 +107,8 @@ const belgica = [
     image: edenHazard,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Eden Hazard",
   },
   {
@@ -94,6 +116,8 @@ const belgica = [
     image: romeluLukaku,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Romelu Lukaku",
   },
 ];

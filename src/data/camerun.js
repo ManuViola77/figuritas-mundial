@@ -17,6 +17,8 @@ const camerun = [
     image: escudoCamerun,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Camerun",
   },
   {
@@ -24,6 +26,8 @@ const camerun = [
     image: andreOnana,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andre Onana",
   },
   {
@@ -31,6 +35,8 @@ const camerun = [
     image: jeanCharlesCastelletto,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jean Charles Castelletto",
   },
   {
@@ -38,6 +44,8 @@ const camerun = [
     image: collinsFai,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Collins Fai",
   },
   {
@@ -45,6 +53,8 @@ const camerun = [
     image: michaelNgadeu,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Michael Ngadeu",
   },
   {
@@ -52,6 +62,8 @@ const camerun = [
     image: nouhou,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nouhou",
   },
   {
@@ -59,6 +71,8 @@ const camerun = [
     image: samuelOumGouet,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Samuel Oum Gouet",
   },
   {
@@ -66,6 +80,8 @@ const camerun = [
     image: andreFrank,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andre Frank Zambo Anguissa",
   },
   {
@@ -73,6 +89,8 @@ const camerun = [
     image: vincentAboubakar,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Vincent Aboubakar",
   },
   {
@@ -80,6 +98,8 @@ const camerun = [
     image: ericMaxim,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Eric Maxim Choupo Moting",
   },
   {
@@ -87,6 +107,8 @@ const camerun = [
     image: nicolasMoumiNgamaleu,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nicolas Moumi Ngamaleu",
   },
   {
@@ -94,6 +116,8 @@ const camerun = [
     image: karlTokoEkambi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Karl Toko Ekambi",
   },
 ];

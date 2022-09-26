@@ -17,6 +17,8 @@ const portugal = [
     image: escudoPortugal,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Portugal",
   },
   {
@@ -24,6 +26,8 @@ const portugal = [
     image: diogoCosta,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Diogo Costa",
   },
   {
@@ -31,6 +35,8 @@ const portugal = [
     image: joaoCancelo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joao Cancelo",
   },
   {
@@ -38,6 +44,8 @@ const portugal = [
     image: pepe,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Pepe",
   },
   {
@@ -45,6 +53,8 @@ const portugal = [
     image: raphaelGuerreiro,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Raphael Guerreiro",
   },
   {
@@ -52,6 +62,8 @@ const portugal = [
     image: rubenDias,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ruben Dias",
   },
   {
@@ -59,6 +71,8 @@ const portugal = [
     image: bernardoSilva,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bernardo Silva",
   },
   {
@@ -66,6 +80,8 @@ const portugal = [
     image: brunoFernandes,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bruno Fernandes",
   },
   {
@@ -73,6 +89,8 @@ const portugal = [
     image: daniloPereira,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Danilo Pereira",
   },
   {
@@ -80,6 +98,8 @@ const portugal = [
     image: joaoMoutinho,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joao Moutinho",
   },
   {
@@ -87,6 +107,8 @@ const portugal = [
     image: cristianoRonaldo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cristiano Ronaldo",
   },
   {
@@ -94,6 +116,8 @@ const portugal = [
     image: diogoJota,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Diogo Jota",
   },
 ];

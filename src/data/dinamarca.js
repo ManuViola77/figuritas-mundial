@@ -17,6 +17,8 @@ const dinamarca = [
     image: escudoDinamarca,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Dinamarca",
   },
   {
@@ -24,6 +26,8 @@ const dinamarca = [
     image: kasperSchmeichel,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kasper Schmeichel",
   },
   {
@@ -31,6 +35,8 @@ const dinamarca = [
     image: andreasChristensen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andreas Christensen",
   },
   {
@@ -38,6 +44,8 @@ const dinamarca = [
     image: simonKjaer,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Simon Kjaer",
   },
   {
@@ -45,6 +53,8 @@ const dinamarca = [
     image: joakimMaehle,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joakim Maehle",
   },
   {
@@ -52,6 +62,8 @@ const dinamarca = [
     image: jannikVestergaard,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jannik Vestergaard",
   },
   {
@@ -59,6 +71,8 @@ const dinamarca = [
     image: thomasDelaney,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thomas Delaney",
   },
   {
@@ -66,6 +80,8 @@ const dinamarca = [
     image: christianEriksen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Christian Eriksen",
   },
   {
@@ -73,6 +89,8 @@ const dinamarca = [
     image: pierreEmileHojbjerg,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Pierre Emile Hojbjerg",
   },
   {
@@ -80,6 +98,8 @@ const dinamarca = [
     image: danielWass,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Daniel Wass",
   },
   {
@@ -87,6 +107,8 @@ const dinamarca = [
     image: martinBraithwaite,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Martin Braithwaite",
   },
   {
@@ -94,6 +116,8 @@ const dinamarca = [
     image: yussufPoulsen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yussuf Poulsen",
   },
 ];

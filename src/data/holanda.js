@@ -17,6 +17,8 @@ const holanda = [
     image: escudoHolanda,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Holanda",
   },
   {
@@ -24,6 +26,8 @@ const holanda = [
     image: justinBijlow,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Justin Bijlow",
   },
   {
@@ -31,6 +35,8 @@ const holanda = [
     image: daleyBlind,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Daley Blind",
   },
   {
@@ -38,6 +44,8 @@ const holanda = [
     image: matthijsDeLigt,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Matthijs De Ligt",
   },
   {
@@ -45,6 +53,8 @@ const holanda = [
     image: stefanDeVrij,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Stefan De Vrij",
   },
   {
@@ -52,6 +62,8 @@ const holanda = [
     image: denzelDumfries,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Denzel Dumfries",
   },
   {
@@ -59,6 +71,8 @@ const holanda = [
     image: virgilVanDijk,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Virgil VanDijk",
   },
   {
@@ -66,6 +80,8 @@ const holanda = [
     image: frenkieDeJong,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Frenkie De Jong",
   },
   {
@@ -73,6 +89,8 @@ const holanda = [
     image: davyKlaassen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Davy Klaassen",
   },
   {
@@ -80,6 +98,8 @@ const holanda = [
     image: georginioWijnaldum,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Georginio Wijnaldum",
   },
   {
@@ -87,6 +107,8 @@ const holanda = [
     image: stevenBerghuis,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Steven Berghuis",
   },
   {
@@ -94,6 +116,8 @@ const holanda = [
     image: memphis,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Memphis",
   },
 ];

@@ -17,6 +17,8 @@ const catar = [
     image: escudoCatar,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Catar",
   },
   {
@@ -24,6 +26,8 @@ const catar = [
     image: saadAlSheeb,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Saad Al Sheeb",
   },
   {
@@ -31,6 +35,8 @@ const catar = [
     image: bassamAlrawi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bassam Alrawi",
   },
   {
@@ -38,6 +44,8 @@ const catar = [
     image: abdulkarimHassan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdulkarim Hassan",
   },
   {
@@ -45,6 +53,8 @@ const catar = [
     image: boualemKhoukhi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Boualem Khoukhi",
   },
   {
@@ -52,6 +62,8 @@ const catar = [
     image: pedroMiguel,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Pedro Miguel",
   },
   {
@@ -59,6 +71,8 @@ const catar = [
     image: tarekSalman,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Tarek Salman",
   },
   {
@@ -66,6 +80,8 @@ const catar = [
     image: karimBoudiaf,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Karim Boudiaf",
   },
   {
@@ -73,6 +89,8 @@ const catar = [
     image: abdulazizHatem,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdulaziz Hatem",
   },
   {
@@ -80,6 +98,8 @@ const catar = [
     image: akramHassanAfif,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Akram Hassan Afif",
   },
   {
@@ -87,6 +107,8 @@ const catar = [
     image: hasanAlHaydos,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hasan Al Haydos",
   },
   {
@@ -94,6 +116,8 @@ const catar = [
     image: almoezAli,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Almoez Ali",
   },
 ];

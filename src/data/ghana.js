@@ -17,6 +17,8 @@ const ghana = [
     image: escudoGhana,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Ghana",
   },
   {
@@ -24,6 +26,8 @@ const ghana = [
     image: joeWollacott,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joe Wollacott",
   },
   {
@@ -31,6 +35,8 @@ const ghana = [
     image: danielAmartey,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Daniel Amartey",
   },
   {
@@ -38,6 +44,8 @@ const ghana = [
     image: abdulRahmanBaba,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdul RahmanBaba",
   },
   {
@@ -45,6 +53,8 @@ const ghana = [
     image: alexanderDjiku,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alexander Djiku",
   },
   {
@@ -52,6 +62,8 @@ const ghana = [
     image: andyYiadom,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andy Yiadom",
   },
   {
@@ -59,6 +71,8 @@ const ghana = [
     image: iddrisuBaba,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Iddrisu Baba",
   },
   {
@@ -66,6 +80,8 @@ const ghana = [
     image: mohammedKudus,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mohammed Kudus",
   },
   {
@@ -73,6 +89,8 @@ const ghana = [
     image: thomasPartey,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thomas Partey",
   },
   {
@@ -80,6 +98,8 @@ const ghana = [
     image: andreAyew,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Andre Ayew",
   },
   {
@@ -87,6 +107,8 @@ const ghana = [
     image: jordanAyew,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jordan Ayew",
   },
   {
@@ -94,6 +116,8 @@ const ghana = [
     image: kamaldeenSulemana,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kamaldeen Sulemana",
   },
 ];

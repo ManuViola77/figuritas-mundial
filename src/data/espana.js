@@ -17,6 +17,8 @@ const espana = [
     image: escudoEspana,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo España",
   },
   {
@@ -24,6 +26,8 @@ const espana = [
     image: unaiSimon,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Unai Simon",
   },
   {
@@ -31,6 +35,8 @@ const espana = [
     image: cesarAzpilicueta,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cesar Azpilicueta",
   },
   {
@@ -38,6 +44,8 @@ const espana = [
     image: ericGarcia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Eric Garcia",
   },
   {
@@ -45,6 +53,8 @@ const espana = [
     image: jordiAlba,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jordi Alba",
   },
   {
@@ -52,6 +62,8 @@ const espana = [
     image: aymericLaporte,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aymeric Laporte",
   },
   {
@@ -59,6 +71,8 @@ const espana = [
     image: gavi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Gavi",
   },
   {
@@ -66,6 +80,8 @@ const espana = [
     image: pedri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Pedri",
   },
   {
@@ -73,6 +89,8 @@ const espana = [
     image: sergioBusquets,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sergio Busquets",
   },
   {
@@ -80,6 +98,8 @@ const espana = [
     image: daniOlmo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Dani Olmo",
   },
   {
@@ -87,6 +107,8 @@ const espana = [
     image: ferranTorres,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ferran Torres",
   },
   {
@@ -94,6 +116,8 @@ const espana = [
     image: alvaroMorata,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alvaro Morata",
   },
 ];

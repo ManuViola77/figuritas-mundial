@@ -17,6 +17,8 @@ const argentina = [
     image: escudoArgentina,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Argentina",
   },
   {
@@ -24,6 +26,8 @@ const argentina = [
     image: emilianoMartinez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Emiliano Martinez",
   },
   {
@@ -31,6 +35,8 @@ const argentina = [
     image: marcosAcuna,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Marcos Acuna",
   },
   {
@@ -38,6 +44,8 @@ const argentina = [
     image: nahuelMolina,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nahuel Molina",
   },
   {
@@ -45,6 +53,8 @@ const argentina = [
     image: nicolasOtamendi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nicolas Otamendi",
   },
   {
@@ -52,6 +62,8 @@ const argentina = [
     image: cristianRomero,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cristian Romero",
   },
   {
@@ -59,6 +71,8 @@ const argentina = [
     image: rodrigoDePaul,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Rodrigo De Paul",
   },
   {
@@ -66,6 +80,8 @@ const argentina = [
     image: angelDiMaria,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Angel Di Maria",
   },
   {
@@ -73,6 +89,8 @@ const argentina = [
     image: giovaniLoCelso,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Giovani Lo Celso",
   },
   {
@@ -80,6 +98,8 @@ const argentina = [
     image: leandroParedes,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Leandro Paredes",
   },
   {
@@ -87,6 +107,8 @@ const argentina = [
     image: lautaroMartinez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Lautaro Martinez",
   },
   {
@@ -94,6 +116,8 @@ const argentina = [
     image: lionelMessi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Lionel Messi",
   },
 ];

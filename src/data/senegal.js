@@ -17,6 +17,8 @@ const senegal = [
     image: escudoSenegal,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Senegal",
   },
   {
@@ -24,6 +26,8 @@ const senegal = [
     image: edouardMendy,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Edouard Mendy",
   },
   {
@@ -31,6 +35,8 @@ const senegal = [
     image: saliouCiss,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Saliou Ciss",
   },
   {
@@ -38,6 +44,8 @@ const senegal = [
     image: abdouDiallo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdou Diallo",
   },
   {
@@ -45,6 +53,8 @@ const senegal = [
     image: kalidouKoulibaly,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kalidou Koulibaly",
   },
   {
@@ -52,6 +62,8 @@ const senegal = [
     image: bounaSarr,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Bouna Sarr",
   },
   {
@@ -59,6 +71,8 @@ const senegal = [
     image: idrissaGueye,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Idrissa Gueye",
   },
   {
@@ -66,6 +80,8 @@ const senegal = [
     image: cheikhouKouyate,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Cheikhou Kouyate",
   },
   {
@@ -73,6 +89,8 @@ const senegal = [
     image: nampalysMendy,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nampalys Mendy",
   },
   {
@@ -80,6 +98,8 @@ const senegal = [
     image: boulayeDia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Boulaye Dia",
   },
   {
@@ -87,6 +107,8 @@ const senegal = [
     image: sadioMane,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sadio Mane",
   },
   {
@@ -94,6 +116,8 @@ const senegal = [
     image: ismailaSarr,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ismaila Sarr",
   },
 ];

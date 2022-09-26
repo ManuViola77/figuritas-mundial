@@ -17,6 +17,8 @@ const ecuador = [
     image: escudoEcuador,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Ecuador",
   },
   {
@@ -24,6 +26,8 @@ const ecuador = [
     image: hernanGalindez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hernan Galindez",
   },
   {
@@ -31,6 +35,8 @@ const ecuador = [
     image: pervisEstupinan,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Pervis Estupinan",
   },
   {
@@ -38,6 +44,8 @@ const ecuador = [
     image: pieroHincapie,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Piero Hincapie",
   },
   {
@@ -45,6 +53,8 @@ const ecuador = [
     image: angeloPreciado,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Angelo Preciado",
   },
   {
@@ -52,6 +62,8 @@ const ecuador = [
     image: felixTorres,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Felix Torres",
   },
   {
@@ -59,6 +71,8 @@ const ecuador = [
     image: moisesCaicedo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Moises Caicedo",
   },
   {
@@ -66,6 +80,8 @@ const ecuador = [
     image: carlosGruezo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Carlos Gruezo",
   },
   {
@@ -73,6 +89,8 @@ const ecuador = [
     image: michaelEstrada,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Michael Estrada",
   },
   {
@@ -80,6 +98,8 @@ const ecuador = [
     image: angelMena,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Angel Mena",
   },
   {
@@ -87,6 +107,8 @@ const ecuador = [
     image: gonzaloPlata,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Gonzalo Plata",
   },
   {
@@ -94,6 +116,8 @@ const ecuador = [
     image: ennerValencia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Enner Valencia",
   },
 ];

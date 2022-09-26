@@ -17,6 +17,8 @@ const arabiaSaudita = [
     image: escudoArabiaSaudita,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Arabia Saudita",
   },
   {
@@ -24,6 +26,8 @@ const arabiaSaudita = [
     image: mohammedAlOwais,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mohammed Al Owais",
   },
   {
@@ -31,6 +35,8 @@ const arabiaSaudita = [
     image: abdulelahAlAmri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdulelah Al Amri",
   },
   {
@@ -38,6 +44,8 @@ const arabiaSaudita = [
     image: sultanAlGhannam,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sultan Al Ghannam",
   },
   {
@@ -45,6 +53,8 @@ const arabiaSaudita = [
     image: yasserAlShahrani,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yasser Al Shahrani",
   },
   {
@@ -52,6 +62,8 @@ const arabiaSaudita = [
     image: hassanAlTambakti,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hassan Al Tambakti",
   },
   {
@@ -59,6 +71,8 @@ const arabiaSaudita = [
     image: abdullahMadu,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdullah Madu",
   },
   {
@@ -66,6 +80,8 @@ const arabiaSaudita = [
     image: salmanAlFaraj,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Salman Al Faraj",
   },
   {
@@ -73,6 +89,8 @@ const arabiaSaudita = [
     image: abdulelahAlMalki,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Abdulelah Al Malki",
   },
   {
@@ -80,6 +98,8 @@ const arabiaSaudita = [
     image: mohamedKanno,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Mohamed Kanno",
   },
   {
@@ -87,6 +107,8 @@ const arabiaSaudita = [
     image: salemAlDawasari,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Salem Al Dawasari",
   },
   {
@@ -94,6 +116,8 @@ const arabiaSaudita = [
     image: khalidAlGhannam,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Khalid Al Ghannam",
   },
 ];

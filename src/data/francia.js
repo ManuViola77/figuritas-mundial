@@ -17,6 +17,8 @@ const francia = [
     image: escudoFrancia,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Francia",
   },
   {
@@ -24,6 +26,8 @@ const francia = [
     image: hugoLloris,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Hugo Lloris",
   },
   {
@@ -31,6 +35,8 @@ const francia = [
     image: theoHernandez,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Theo Hernandez",
   },
   {
@@ -38,6 +44,8 @@ const francia = [
     image: presnelKimpembe,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Presnel Kimpembe",
   },
   {
@@ -45,6 +53,8 @@ const francia = [
     image: julesKounde,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Jules Kounde",
   },
   {
@@ -52,6 +62,8 @@ const francia = [
     image: raphaelVarane,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Raphael Varane",
   },
   {
@@ -59,6 +71,8 @@ const francia = [
     image: ngoloKante,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ngolo Kante",
   },
   {
@@ -66,6 +80,8 @@ const francia = [
     image: paulPogba,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Paul Pogba",
   },
   {
@@ -73,6 +89,8 @@ const francia = [
     image: adrienRabiot,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "AdrienRabiot",
   },
   {
@@ -80,6 +98,8 @@ const francia = [
     image: karimBenzema,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Karim Benzema",
   },
   {
@@ -87,6 +107,8 @@ const francia = [
     image: antoineGriezmann,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Antoine Griezmann",
   },
   {
@@ -94,6 +116,8 @@ const francia = [
     image: kylianMbappe,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kylian Mbappe",
   },
 ];

@@ -17,6 +17,8 @@ const gales = [
     image: escudoGales,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Gales",
   },
   {
@@ -24,6 +26,8 @@ const gales = [
     image: wayneHennessey,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Wayne Hennessey",
   },
   {
@@ -31,6 +35,8 @@ const gales = [
     image: ethanAmpadu,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ethan Ampadu",
   },
   {
@@ -38,6 +44,8 @@ const gales = [
     image: benDavies,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ben Davies",
   },
   {
@@ -45,6 +53,8 @@ const gales = [
     image: connorRoberts,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Connor Roberts",
   },
   {
@@ -52,6 +62,8 @@ const gales = [
     image: joeRodon,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joe Rodon",
   },
   {
@@ -59,6 +71,8 @@ const gales = [
     image: necoWilliams,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Neco Williams",
   },
   {
@@ -66,6 +80,8 @@ const gales = [
     image: joeAllen,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Joe Allen",
   },
   {
@@ -73,6 +89,8 @@ const gales = [
     image: aaronRamsey,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Aaron Ramsey",
   },
   {
@@ -80,6 +98,8 @@ const gales = [
     image: garethBale,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Gareth Bale",
   },
   {
@@ -87,6 +107,8 @@ const gales = [
     image: danielJames,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Daniel James",
   },
   {
@@ -94,6 +116,8 @@ const gales = [
     image: kiefferMoore,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Kieffer Moore",
   },
 ];

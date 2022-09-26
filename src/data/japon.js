@@ -17,6 +17,8 @@ const japon = [
     image: escudoJapon,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Japon",
   },
   {
@@ -24,6 +26,8 @@ const japon = [
     image: shuichiGonda,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Shuichi Gonda",
   },
   {
@@ -31,6 +35,8 @@ const japon = [
     image: yutoNagatomo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yuto Nagatomo",
   },
   {
@@ -38,6 +44,8 @@ const japon = [
     image: takehiroTomiyasu,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Takehiro Tomiyasu",
   },
   {
@@ -45,6 +53,8 @@ const japon = [
     image: mikiYamane,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Miki Yamane",
   },
   {
@@ -52,6 +62,8 @@ const japon = [
     image: mayaYoshida,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Maya Yoshida",
   },
   {
@@ -59,6 +71,8 @@ const japon = [
     image: wataruEndo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "WataruEndo",
   },
   {
@@ -66,6 +80,8 @@ const japon = [
     image: gakuShibasaki,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Gaku Shibasaki",
   },
   {
@@ -73,6 +89,8 @@ const japon = [
     image: aoTanaka,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ao Tanaka",
   },
   {
@@ -80,6 +98,8 @@ const japon = [
     image: junyaIto,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Junya Ito",
   },
   {
@@ -87,6 +107,8 @@ const japon = [
     image: takumiMinamino,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Takumi Minamino",
   },
   {
@@ -94,6 +116,8 @@ const japon = [
     image: yuyaOsako,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yuya Osako",
   },
 ];

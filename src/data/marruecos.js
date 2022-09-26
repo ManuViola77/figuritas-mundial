@@ -17,6 +17,8 @@ const marruecos = [
     image: escudoMarruecos,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Marruecos",
   },
   {
@@ -24,6 +26,8 @@ const marruecos = [
     image: yassineBounou,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Yassine Bounou",
   },
   {
@@ -31,6 +35,8 @@ const marruecos = [
     image: nayefAguerd,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Nayef Aguerd",
   },
   {
@@ -38,6 +44,8 @@ const marruecos = [
     image: achrafHakimi,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Achraf Hakimi",
   },
   {
@@ -45,6 +53,8 @@ const marruecos = [
     image: adamMasina,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Adam Masina",
   },
   {
@@ -52,6 +62,8 @@ const marruecos = [
     image: romainSaiss,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Romain Saiss",
   },
   {
@@ -59,6 +71,8 @@ const marruecos = [
     image: selimAmallah,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Selim Amallah",
   },
   {
@@ -66,6 +80,8 @@ const marruecos = [
     image: sofyanAmrabat,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sofyan Amrabat",
   },
   {
@@ -73,6 +89,8 @@ const marruecos = [
     image: imranLouza,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Imran Louza",
   },
   {
@@ -80,6 +98,8 @@ const marruecos = [
     image: sofianeBoufal,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Sofiane Boufal",
   },
   {
@@ -87,6 +107,8 @@ const marruecos = [
     image: youssefEnNesyri,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Youssef En Nesyri",
   },
   {
@@ -94,6 +116,8 @@ const marruecos = [
     image: ryanMmaee,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Ryan Mmaee",
   },
 ];

@@ -17,6 +17,8 @@ const brasil = [
     image: escudoBrasil,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Escudo Brasil",
   },
   {
@@ -24,6 +26,8 @@ const brasil = [
     image: alisson,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alisson",
   },
   {
@@ -31,6 +35,8 @@ const brasil = [
     image: alexSandro,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Alex Sandro",
   },
   {
@@ -38,6 +44,8 @@ const brasil = [
     image: danilo,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Danilo",
   },
   {
@@ -45,6 +53,8 @@ const brasil = [
     image: marquinhos,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Marquinhos",
   },
   {
@@ -52,6 +62,8 @@ const brasil = [
     image: thiagoSilva,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Thiago Silva",
   },
   {
@@ -59,6 +71,8 @@ const brasil = [
     image: casemiro,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Casemiro",
   },
   {
@@ -66,6 +80,8 @@ const brasil = [
     image: fred,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Fred",
   },
   {
@@ -73,6 +89,8 @@ const brasil = [
     image: lucasPaqueta,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Lucas Paqueta",
   },
   {
@@ -80,6 +98,8 @@ const brasil = [
     image: gabrielJesus,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Gabriel Jesus",
   },
   {
@@ -87,6 +107,8 @@ const brasil = [
     image: neymarJr,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Neymar Jr",
   },
   {
@@ -94,6 +116,8 @@ const brasil = [
     image: viniciusJr,
     have: false,
     haveGold: false,
+    duplicated: 0,
+    selected: false,
     name: "Vinicius Jr",
   },
 ];
