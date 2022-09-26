@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useMemo } from "react";
+import React, { useState, useMemo } from "react";
 
 import Card from "../Card";
 import Input from "../Input";
@@ -7,7 +7,10 @@ import { useLocalStorageState } from "../../utils/utils";
 
 const List = () => {
   const [filters, setFilters] = useState({});
-  const [storageData, setStorageData] = useLocalStorageState("data", data);
+  const [storageData /* , setStorageData */] = useLocalStorageState(
+    "data",
+    data
+  );
 
   const dataToShow = useMemo(() => getFilteredData(storageData, filters), [
     filters,
