@@ -1,100 +1,100 @@
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
-import yannSommer from "./assets/gales/.png";
+import aaronRamsey from "./assets/gales/aaron-ramsey.png";
+import benDavies from "./assets/gales/ben-davies.png";
+import connorRoberts from "./assets/gales/connor-roberts.png";
+import danielJames from "./assets/gales/daniel-james.png";
+import escudoGales from "./assets/gales/escudo-gales.png";
+import ethanAmpadu from "./assets/gales/ethan-ampadu.png";
+import garethBale from "./assets/gales/gareth-bale.png";
+import joeAllen from "./assets/gales/joe-allen.png";
+import joeRodon from "./assets/gales/joe-rodon.png";
+import kiefferMoore from "./assets/gales/kieffer-moore.png";
+import necoWilliams from "./assets/gales/neco-williams.png";
+import wayneHennessey from "./assets/gales/wayne-hennessey.png";
 
 const gales = [
   {
     id: 0,
-    image: "",
+    image: escudoGales,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Gales",
   },
   {
     id: 1,
-    image: "",
+    image: wayneHennessey,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Wayne Hennessey",
   },
   {
     id: 2,
-    image: "",
+    image: ethanAmpadu,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ethan Ampadu",
   },
   {
     id: 3,
-    image: "",
+    image: benDavies,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ben Davies",
   },
   {
     id: 4,
-    image: "",
+    image: connorRoberts,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Connor Roberts",
   },
   {
     id: 5,
-    image: "",
+    image: joeRodon,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joe Rodon",
   },
   {
     id: 6,
-    image: "",
+    image: necoWilliams,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Neco Williams",
   },
   {
     id: 7,
-    image: "",
+    image: joeAllen,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joe Allen",
   },
   {
     id: 8,
-    image: "",
+    image: aaronRamsey,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aaron Ramsey",
   },
   {
     id: 9,
-    image: "",
+    image: garethBale,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Gareth Bale",
   },
   {
     id: 10,
-    image: "",
+    image: danielJames,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Daniel James",
   },
   {
     id: 11,
-    image: "",
+    image: kiefferMoore,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kieffer Moore",
   },
 ];
 

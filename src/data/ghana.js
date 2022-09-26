@@ -1,100 +1,100 @@
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
-import yannSommer from "./assets/ghana/.png";
+import abdulRahmanBaba from "./assets/ghana/abdul-rahman-baba.png";
+import alexanderDjiku from "./assets/ghana/alexander-djiku.png";
+import andreAyew from "./assets/ghana/andre-ayew.png";
+import andyYiadom from "./assets/ghana/andy-yiadom.png";
+import danielAmartey from "./assets/ghana/daniel-amartey.png";
+import escudoGhana from "./assets/ghana/escudo-ghana.png";
+import iddrisuBaba from "./assets/ghana/iddrisu-baba.png";
+import joeWollacott from "./assets/ghana/joe-wollacott.png";
+import jordanAyew from "./assets/ghana/jordan-ayew.png";
+import kamaldeenSulemana from "./assets/ghana/kamaldeen-sulemana.png";
+import mohammedKudus from "./assets/ghana/mohammed-kudus.png";
+import thomasPartey from "./assets/ghana/thomas-partey.png";
 
 const ghana = [
   {
     id: 0,
-    image: "",
+    image: escudoGhana,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Ghana",
   },
   {
     id: 1,
-    image: "",
+    image: joeWollacott,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joe Wollacott",
   },
   {
     id: 2,
-    image: "",
+    image: danielAmartey,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Daniel Amartey",
   },
   {
     id: 3,
-    image: "",
+    image: abdulRahmanBaba,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Abdul RahmanBaba",
   },
   {
     id: 4,
-    image: "",
+    image: alexanderDjiku,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alexander Djiku",
   },
   {
     id: 5,
-    image: "",
+    image: andyYiadom,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Andy Yiadom",
   },
   {
     id: 6,
-    image: "",
+    image: iddrisuBaba,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Iddrisu Baba",
   },
   {
     id: 7,
-    image: "",
+    image: mohammedKudus,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mohammed Kudus",
   },
   {
     id: 8,
-    image: "",
+    image: thomasPartey,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Thomas Partey",
   },
   {
     id: 9,
-    image: "",
+    image: andreAyew,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Andre Ayew",
   },
   {
     id: 10,
-    image: "",
+    image: jordanAyew,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jordan Ayew",
   },
   {
     id: 11,
-    image: "",
+    image: kamaldeenSulemana,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kamaldeen Sulemana",
   },
 ];
 

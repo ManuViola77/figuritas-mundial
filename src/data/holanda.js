@@ -1,100 +1,100 @@
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
-import yannSommer from "./assets/holanda/.png";
+import daleyBlind from "./assets/holanda/daley-blind.png";
+import davyKlaassen from "./assets/holanda/davy-klaassen.png";
+import denzelDumfries from "./assets/holanda/denzel-dumfries.png";
+import escudoHolanda from "./assets/holanda/escudo-paises-bajos.png";
+import frenkieDeJong from "./assets/holanda/frenkie-de-jong.png";
+import georginioWijnaldum from "./assets/holanda/georginio-wijnaldum.png";
+import justinBijlow from "./assets/holanda/justin-bijlow.png";
+import matthijsDeLigt from "./assets/holanda/matthijs-de-ligt.png";
+import memphis from "./assets/holanda/memphis.png";
+import stefanDeVrij from "./assets/holanda/stefan-de-vrij.png";
+import stevenBerghuis from "./assets/holanda/steven-berghuis.png";
+import virgilVanDijk from "./assets/holanda/virgil-van-dijk.png";
 
 const holanda = [
   {
     id: 0,
-    image: "",
+    image: escudoHolanda,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Holanda",
   },
   {
     id: 1,
-    image: "",
+    image: justinBijlow,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Justin Bijlow",
   },
   {
     id: 2,
-    image: "",
+    image: daleyBlind,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Daley Blind",
   },
   {
     id: 3,
-    image: "",
+    image: matthijsDeLigt,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Matthijs De Ligt",
   },
   {
     id: 4,
-    image: "",
+    image: stefanDeVrij,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Stefan De Vrij",
   },
   {
     id: 5,
-    image: "",
+    image: denzelDumfries,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Denzel Dumfries",
   },
   {
     id: 6,
-    image: "",
+    image: virgilVanDijk,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Virgil VanDijk",
   },
   {
     id: 7,
-    image: "",
+    image: frenkieDeJong,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Frenkie De Jong",
   },
   {
     id: 8,
-    image: "",
+    image: davyKlaassen,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Davy Klaassen",
   },
   {
     id: 9,
-    image: "",
+    image: georginioWijnaldum,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Georginio Wijnaldum",
   },
   {
     id: 10,
-    image: "",
+    image: stevenBerghuis,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Steven Berghuis",
   },
   {
     id: 11,
-    image: "",
+    image: memphis,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Memphis",
   },
 ];
 
