@@ -1,100 +1,100 @@
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
-import yannSommer from "./assets/inglaterra/.png";
+import declanRice from "./assets/inglaterra/declan-rice.png";
+import escudoInglaterra from "./assets/inglaterra/escudo-inglaterra.png";
+import harryKane from "./assets/inglaterra/harry-kane.png";
+import harryMaguire from "./assets/inglaterra/harry-maguire.png";
+import jordanPickford from "./assets/inglaterra/jodran-pickford.png";
+import johnStones from "./assets/inglaterra/john-stones.png";
+import kalvinPhillips from "./assets/inglaterra/kalvin-phillips.png";
+import kyleWalker from "./assets/inglaterra/kyle-walker.png";
+import lukeShaw from "./assets/inglaterra/luke-shaw.png";
+import masonMount from "./assets/inglaterra/mason-mount.png";
+import philFoden from "./assets/inglaterra/phil-foden.png";
+import raheemSterling from "./assets/inglaterra/raheem-sterling.png";
 
 const inglaterra = [
   {
     id: 0,
-    image: "",
+    image: escudoInglaterra,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Inglaterra",
   },
   {
     id: 1,
-    image: "",
+    image: jordanPickford,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jordan Pickford",
   },
   {
     id: 2,
-    image: "",
+    image: harryMaguire,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Harry Maguire",
   },
   {
     id: 3,
-    image: "",
+    image: lukeShaw,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Luke Shaw",
   },
   {
     id: 4,
-    image: "",
+    image: johnStones,
     have: false,
     haveGold: false,
-    name: "",
+    name: "John Stones",
   },
   {
     id: 5,
-    image: "",
+    image: kyleWalker,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kyle Walker",
   },
   {
     id: 6,
-    image: "",
+    image: masonMount,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Mason Mount",
   },
   {
     id: 7,
-    image: "",
+    image: kalvinPhillips,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kalvin Phillips",
   },
   {
     id: 8,
-    image: "",
+    image: declanRice,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Declan Rice",
   },
   {
     id: 9,
-    image: "",
+    image: philFoden,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Phil Foden",
   },
   {
     id: 10,
-    image: "",
+    image: harryKane,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Harry Kane",
   },
   {
     id: 11,
-    image: "",
+    image: raheemSterling,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Raheem Sterling",
   },
 ];
 
