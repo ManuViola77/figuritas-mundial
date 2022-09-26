@@ -1,100 +1,100 @@
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
-import yannSommer from "./assets/estadosUnidos/.png";
+import antoneeRobinson from "./assets/estadosUnidos/antonee-robinson.png";
+import christianPulisic from "./assets/estadosUnidos/christian-pulisic.png";
+import deandreYedlin from "./assets/estadosUnidos/deandre-yedlin.png";
+import escudoUsa from "./assets/estadosUnidos/escudo-usa.png";
+import giovanniReyna from "./assets/estadosUnidos/giovanni-reyna.png";
+import mattTurner from "./assets/estadosUnidos/matt-turner.png";
+import ricardoPepi from "./assets/estadosUnidos/ricardo-pepi.png";
+import serginoDest from "./assets/estadosUnidos/sergino-dest.png";
+import timothyWeah from "./assets/estadosUnidos/timothy-weah.png";
+import tylerAdams from "./assets/estadosUnidos/tyler-adams.png";
+import walkerZimmerman from "./assets/estadosUnidos/walker-zimmerman.png";
+import westonMckennie from "./assets/estadosUnidos/weston-mckennie.png";
 
 const estadosUnidos = [
   {
     id: 0,
-    image: "",
+    image: escudoUsa,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Usa",
   },
   {
     id: 1,
-    image: "",
+    image: mattTurner,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Matt Turner",
   },
   {
     id: 2,
-    image: "",
+    image: serginoDest,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Sergino Dest",
   },
   {
     id: 3,
-    image: "",
+    image: antoneeRobinson,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Antonee Robinson",
   },
   {
     id: 4,
-    image: "",
+    image: deandreYedlin,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Deandre Yedlin",
   },
   {
     id: 5,
-    image: "",
+    image: walkerZimmerman,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Walker Zimmerman",
   },
   {
     id: 6,
-    image: "",
+    image: tylerAdams,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Tyler Adams",
   },
   {
     id: 7,
-    image: "",
+    image: westonMckennie,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Weston Mckennie",
   },
   {
     id: 8,
-    image: "",
+    image: ricardoPepi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ricardo Pepi",
   },
   {
     id: 9,
-    image: "",
+    image: christianPulisic,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Christian Pulisic",
   },
   {
     id: 10,
-    image: "",
+    image: giovanniReyna,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Giovanni Reyna",
   },
   {
     id: 11,
-    image: "",
+    image: timothyWeah,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Timothy Weah",
   },
 ];
 

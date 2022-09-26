@@ -1,100 +1,100 @@
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
-import yannSommer from "./assets/dinamarca/.png";
+import andreasChristensen from "./assets/dinamarca/andreas-christensen.png";
+import christianEriksen from "./assets/dinamarca/christian-eriksen.png";
+import danielWass from "./assets/dinamarca/daniel-wass.png";
+import escudoDinamarca from "./assets/dinamarca/escudo-dinamarca.png";
+import jannikVestergaard from "./assets/dinamarca/jannik-vestergaard.png";
+import joakimMaehle from "./assets/dinamarca/joakim-maehle.png";
+import kasperSchmeichel from "./assets/dinamarca/kasper-schmeichel.png";
+import martinBraithwaite from "./assets/dinamarca/martin-braithwaite.png";
+import pierreEmileHojbjerg from "./assets/dinamarca/pierre-emile-hojbjerg.png";
+import simonKjaer from "./assets/dinamarca/simon-kjaer.png";
+import thomasDelaney from "./assets/dinamarca/thomas-delaney.png";
+import yussufPoulsen from "./assets/dinamarca/yussuf-poulsen.png";
 
 const dinamarca = [
   {
     id: 0,
-    image: "",
+    image: escudoDinamarca,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Dinamarca",
   },
   {
     id: 1,
-    image: "",
+    image: kasperSchmeichel,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Kasper Schmeichel",
   },
   {
     id: 2,
-    image: "",
+    image: andreasChristensen,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Andreas Christensen",
   },
   {
     id: 3,
-    image: "",
+    image: simonKjaer,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Simon Kjaer",
   },
   {
     id: 4,
-    image: "",
+    image: joakimMaehle,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Joakim Maehle",
   },
   {
     id: 5,
-    image: "",
+    image: jannikVestergaard,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jannik Vestergaard",
   },
   {
     id: 6,
-    image: "",
+    image: thomasDelaney,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Thomas Delaney",
   },
   {
     id: 7,
-    image: "",
+    image: christianEriksen,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Christian Eriksen",
   },
   {
     id: 8,
-    image: "",
+    image: pierreEmileHojbjerg,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Pierre Emile Hojbjerg",
   },
   {
     id: 9,
-    image: "",
+    image: danielWass,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Daniel Wass",
   },
   {
     id: 10,
-    image: "",
+    image: martinBraithwaite,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Martin Braithwaite",
   },
   {
     id: 11,
-    image: "",
+    image: yussufPoulsen,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Yussuf Poulsen",
   },
 ];
 

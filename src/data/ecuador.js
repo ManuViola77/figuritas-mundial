@@ -1,100 +1,100 @@
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
-import yannSommer from "./assets/ecuador/.png";
+import angelMena from "./assets/ecuador/angel-mena.png";
+import angeloPreciado from "./assets/ecuador/angelo-preciado.png";
+import carlosGruezo from "./assets/ecuador/carlos-gruezo.png";
+import ennerValencia from "./assets/ecuador/enner-valencia.png";
+import escudoEcuador from "./assets/ecuador/escudo-ecuador.png";
+import felixTorres from "./assets/ecuador/felix-torres.png";
+import gonzaloPlata from "./assets/ecuador/gonzalo-plata.png";
+import hernanGalindez from "./assets/ecuador/hernan-galindez.png";
+import michaelEstrada from "./assets/ecuador/michael-estrada.png";
+import moisesCaicedo from "./assets/ecuador/moises-caicedo.png";
+import pervisEstupinan from "./assets/ecuador/pervis-estupinan.png";
+import pieroHincapie from "./assets/ecuador/piero-hincapie.png";
 
 const ecuador = [
   {
     id: 0,
-    image: "",
+    image: escudoEcuador,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo Ecuador",
   },
   {
     id: 1,
-    image: "",
+    image: hernanGalindez,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Hernan Galindez",
   },
   {
     id: 2,
-    image: "",
+    image: pervisEstupinan,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Pervis Estupinan",
   },
   {
     id: 3,
-    image: "",
+    image: pieroHincapie,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Piero Hincapie",
   },
   {
     id: 4,
-    image: "",
+    image: angeloPreciado,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Angelo Preciado",
   },
   {
     id: 5,
-    image: "",
+    image: felixTorres,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Felix Torres",
   },
   {
     id: 6,
-    image: "",
+    image: moisesCaicedo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Moises Caicedo",
   },
   {
     id: 7,
-    image: "",
+    image: carlosGruezo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Carlos Gruezo",
   },
   {
     id: 8,
-    image: "",
+    image: michaelEstrada,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Michael Estrada",
   },
   {
     id: 9,
-    image: "",
+    image: angelMena,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Angel Mena",
   },
   {
     id: 10,
-    image: "",
+    image: gonzaloPlata,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Gonzalo Plata",
   },
   {
     id: 11,
-    image: "",
+    image: ennerValencia,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Enner Valencia",
   },
 ];
 

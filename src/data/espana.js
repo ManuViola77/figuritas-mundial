@@ -1,100 +1,100 @@
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
-import yannSommer from "./assets/espana/.png";
+import alvaroMorata from "./assets/espana/alvaro-morata.png";
+import aymericLaporte from "./assets/espana/aymeric-laporte.png";
+import cesarAzpilicueta from "./assets/espana/cesar-azpilicueta.png";
+import daniOlmo from "./assets/espana/dani-olmo.png";
+import ericGarcia from "./assets/espana/eric-garcia.png";
+import escudoEspana from "./assets/espana/escudo-espana.png";
+import ferranTorres from "./assets/espana/ferran-torres.png";
+import gavi from "./assets/espana/gavi.png";
+import jordiAlba from "./assets/espana/jordi-alba.png";
+import pedri from "./assets/espana/pedri.png";
+import sergioBusquets from "./assets/espana/sergio-busquets.png";
+import unaiSimon from "./assets/espana/unai-simon.png";
 
 const espana = [
   {
     id: 0,
-    image: "",
+    image: escudoEspana,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Escudo España",
   },
   {
     id: 1,
-    image: "",
+    image: unaiSimon,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Unai Simon",
   },
   {
     id: 2,
-    image: "",
+    image: cesarAzpilicueta,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Cesar Azpilicueta",
   },
   {
     id: 3,
-    image: "",
+    image: ericGarcia,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Eric Garcia",
   },
   {
     id: 4,
-    image: "",
+    image: jordiAlba,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Jordi Alba",
   },
   {
     id: 5,
-    image: "",
+    image: aymericLaporte,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Aymeric Laporte",
   },
   {
     id: 6,
-    image: "",
+    image: gavi,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Gavi",
   },
   {
     id: 7,
-    image: "",
+    image: pedri,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Pedri",
   },
   {
     id: 8,
-    image: "",
+    image: sergioBusquets,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Sergio Busquets",
   },
   {
     id: 9,
-    image: "",
+    image: daniOlmo,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Dani Olmo",
   },
   {
     id: 10,
-    image: "",
+    image: ferranTorres,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Ferran Torres",
   },
   {
     id: 11,
-    image: "",
+    image: alvaroMorata,
     have: false,
     haveGold: false,
-    name: "",
+    name: "Alvaro Morata",
   },
 ];
 
