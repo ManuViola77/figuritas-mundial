@@ -7,10 +7,7 @@ import { useLocalStorageState } from "../../utils/utils";
 
 const List = () => {
   const [filters, setFilters] = useState({});
-  const [storageData /* , setStorageData */] = useLocalStorageState(
-    "data",
-    data
-  );
+  const [storageData, setStorageData] = useLocalStorageState("data", data);
 
   const dataToShow = useMemo(() => getFilteredData(storageData, filters), [
     filters,
@@ -23,6 +20,19 @@ const List = () => {
     const newFilters = { ...filters };
     newFilters[key] = value;
     setFilters(newFilters);
+  };
+
+  const changeStickerStatus = ({ id, countryIndex, isGold, isAdd }) => {
+    const newData = { ...storageData };
+    const selectedItem = newData.data[countryIndex][id];
+    const removeGold = !isAdd && isGold;
+    const newSelectedItem = {
+      ...selectedItem,
+      have: isAdd || removeGold,
+      haveGold: isAdd ? isGold : false,
+    };
+    newData.data[countryIndex][id] = newSelectedItem;
+    setStorageData(newData);
   };
 
   return (
@@ -41,8 +51,15 @@ const List = () => {
           ></Input>
         </div>
         <div className="cards-list">
-          {dataToShow.map((countryItems) =>
-            countryItems.map((item) => <Card key={item.id} item={item}></Card>)
+          {dataToShow.map((countryItems, countryIndex) =>
+            countryItems.map((item) => (
+              <Card
+                key={item.id}
+                item={item}
+                changeStickerStatus={changeStickerStatus}
+                countryIndex={countryIndex}
+              ></Card>
+            ))
           )}
         </div>
       </form>

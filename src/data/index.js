@@ -34,7 +34,7 @@ import uruguay from "./uruguay";
 const data = {
   countryMapping: [
     "Alemania",
-    "Arabia Saudita",
+    "ArabiaSaudita",
     "Argentina",
     "Australia",
     "Belgica",
@@ -48,7 +48,7 @@ const data = {
     "Dinamarca",
     "Ecuador",
     "España",
-    "Estados Unidos",
+    "EstadosUnidos",
     "Francia",
     "Gales",
     "Ghana",
@@ -56,7 +56,7 @@ const data = {
     "Inglaterra",
     "Iran",
     "Japon",
-    "marruecos",
+    "Marruecos",
     "Mexico",
     "Polonia",
     "Portugal",

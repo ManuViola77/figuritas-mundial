@@ -1,16 +1,25 @@
 import React from "react";
 
+import minusGold from "../../assets/icons/minusGold.png";
+import minusRed from "../../assets/icons/minusRed.png";
+import plusGold from "../../assets/icons/plusGold.png";
+import plusRed from "../../assets/icons/plusRed.png";
 import Sparkle from "../Sparkle";
 
 const Card = ({
-  item: { id, image, have, haveGold, duplicated, selected, name } = {},
-
+  item: { id, image, have, haveGold, name } = {},
   country,
+  countryIndex,
+  changeStickerStatus,
 }) => {
   let imageClassName = "image";
-  if (have) {
+  if (!have) {
     imageClassName = imageClassName.concat(" image-disabled");
   }
+
+  const haveSticker = have || haveGold;
+  const showRedPlus = !haveSticker;
+  const showGoldPlus = !haveGold;
 
   return (
     <div className="card">
@@ -32,6 +41,32 @@ const Card = ({
           <Sparkle count={50} overflowPx={0} fadeOutSpeed={35} />
         </div>
       )}
+      <div className="icons-container">
+        <img
+          className="plus-icon"
+          onClick={() =>
+            changeStickerStatus({
+              id,
+              countryIndex,
+              isGold: false,
+              isAdd: showRedPlus,
+            })
+          }
+          src={showRedPlus ? plusRed : minusRed}
+        ></img>
+        <img
+          className="plus-icon gold-icon"
+          onClick={() =>
+            changeStickerStatus({
+              id,
+              countryIndex,
+              isGold: true,
+              isAdd: showGoldPlus,
+            })
+          }
+          src={showGoldPlus ? plusGold : minusGold}
+        ></img>
+      </div>
     </div>
   );
 };
