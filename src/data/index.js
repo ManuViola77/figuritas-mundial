@@ -105,27 +105,34 @@ const data = {
 export const getFilteredData = (
   oldData,
   {
-    country: countryFilter,
+    country: countryFilter = "",
     have: haveFilter,
     haveGold: haveGoldFilter,
-    name: nameFilter,
+    name: nameFilter = "",
     id: idFilter,
   }
 ) =>
-  oldData.data.map((item, index) => {
-    const { have, haveGold, name, id } = item;
+  oldData.data.map((countryItem = [], index) => {
+    const filteredData = countryItem.filter((item) => {
+      const { have, haveGold, name, id } = item;
 
-    const country = oldData.countryMapping[index];
-    const matchCountry = country === countryFilter || !countryFilter;
-    const matchHave = have === haveFilter || !haveFilter;
-    const matchHaveGold = haveGold === haveGoldFilter || !haveGoldFilter;
-    const matchName = name === nameFilter || !nameFilter;
-    const matchId = id === idFilter || !idFilter;
+      const country = oldData.countryMapping[index];
+      const matchCountry =
+        country.toLowerCase().includes(countryFilter.toLowerCase()) ||
+        !countryFilter;
+      const matchHave = have === haveFilter || !haveFilter;
+      const matchHaveGold = haveGold === haveGoldFilter || !haveGoldFilter;
+      const matchName =
+        name.toLowerCase().includes(nameFilter.toLowerCase()) || !nameFilter;
+      const matchId = id === idFilter || !idFilter;
 
-    const isMatch =
-      matchCountry && matchHave && matchHaveGold && matchName && matchId;
+      const isMatch =
+        matchCountry && matchHave && matchHaveGold && matchName && matchId;
 
-    return isMatch ? item : [];
+      return isMatch ? item : null;
+    });
+
+    return filteredData;
   });
 
 export default data;

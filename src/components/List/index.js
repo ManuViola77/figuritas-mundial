@@ -15,10 +15,11 @@ const List = () => {
   ]);
   console.log("filters: ", filters);
 
-  const handleApplyFilters = () => {
-    setFilters({
-      country: "Canada",
-    });
+  const getFilter = (key) => filters[key];
+  const setFilter = (key, value) => {
+    const newFilters = { ...filters };
+    newFilters[key] = value;
+    setFilters(newFilters);
   };
 
   return (
@@ -26,12 +27,17 @@ const List = () => {
       <p>Filtros:</p>
       <form>
         <div className="filters-container">
-          <Input label="Futbolista"></Input>
-          <Input label="Pais"></Input>
+          <Input
+            value={getFilter("name")}
+            onChange={(event) => setFilter("name", event.target.value)}
+            label="Futbolista"
+          ></Input>
+          <Input
+            value={getFilter("country")}
+            onChange={(event) => setFilter("country", event.target.value)}
+            label="Pais"
+          ></Input>
         </div>
-        <button type="button" onClick={handleApplyFilters}>
-          Aplicar
-        </button>
         <div className="cards-list">
           {dataToShow.map((countryItems) =>
             countryItems.map((item) => <Card key={item.id} item={item}></Card>)
