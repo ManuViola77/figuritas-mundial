@@ -53,6 +53,7 @@ const Card = ({
             })
           }
           src={showRedPlus ? plusRed : minusRed}
+          alt={`${showRedPlus ? "add" : "remove"} sticker`}
         ></img>
         <img
           className="plus-icon gold-icon"
@@ -65,6 +66,7 @@ const Card = ({
             })
           }
           src={showGoldPlus ? plusGold : minusGold}
+          alt={`${showGoldPlus ? "add" : "remove"} gold sticker`}
         ></img>
       </div>
     </div>
