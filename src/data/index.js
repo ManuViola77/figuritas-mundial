@@ -106,8 +106,7 @@ export const getFilteredData = (
   oldData,
   {
     country: countryFilter = "",
-    have: haveFilter,
-    haveGold: haveGoldFilter,
+    haveOption = "todas",
     name: nameFilter = "",
     id: idFilter,
   }
@@ -120,14 +119,27 @@ export const getFilteredData = (
       const matchCountry =
         country.toLowerCase().includes(countryFilter.toLowerCase()) ||
         !countryFilter;
-      const matchHave = have === haveFilter || !haveFilter;
-      const matchHaveGold = haveGold === haveGoldFilter || !haveGoldFilter;
       const matchName =
         name.toLowerCase().includes(nameFilter.toLowerCase()) || !nameFilter;
       const matchId = id === idFilter || !idFilter;
 
-      const isMatch =
-        matchCountry && matchHave && matchHaveGold && matchName && matchId;
+      let matchHave = true;
+      switch (haveOption) {
+        case "no":
+          matchHave = !have && !haveGold;
+          break;
+        case "comun":
+          matchHave = have && !haveGold;
+          break;
+        case "dorada":
+          matchHave = have && haveGold;
+          break;
+        default:
+          matchHave = true;
+          break;
+      }
+
+      const isMatch = matchCountry && matchHave && matchName && matchId;
 
       return isMatch ? item : null;
     });

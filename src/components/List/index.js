@@ -4,9 +4,12 @@ import Card from "../Card";
 import Input from "../Input";
 import data, { getFilteredData } from "../../data/index";
 import { useLocalStorageState } from "../../utils/utils";
+import RadioButtonRN from "../RadioButton";
+
+const options = ["no", "comun", "dorada", "todas"];
 
 const List = () => {
-  const [filters, setFilters] = useState({});
+  const [filters, setFilters] = useState({ haveOption: "todas" });
   const [storageData, setStorageData] = useLocalStorageState("data", data);
 
   const dataToShow = useMemo(() => getFilteredData(storageData, filters), [
@@ -49,6 +52,16 @@ const List = () => {
             onChange={(event) => setFilter("country", event.target.value)}
             label="Pais"
           ></Input>
+          <div>
+            <label className="radio-button-label">Tengo:</label>
+            <RadioButtonRN
+              options={options}
+              selectedOption={filters.haveOption}
+              onValueChange={(event) =>
+                setFilter("haveOption", event.target.value)
+              }
+            />
+          </div>
         </div>
         <div className="cards-list">
           {dataToShow.map((countryItems, countryIndex) =>
