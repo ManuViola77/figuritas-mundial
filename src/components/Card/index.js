@@ -7,13 +7,14 @@ import plusRed from "../../assets/icons/plusRed.png";
 import Sparkle from "../Sparkle";
 
 const Card = ({
-  item: { id, image, have, haveGold, name } = {},
+  item: { id, image, have, haveGold, name, duplicated } = {},
   country,
   countryIndex,
   changeStickerStatus,
+  isHaveMode,
 }) => {
   let imageClassName = "image";
-  if (!have) {
+  if ((!have && isHaveMode) || (!duplicated && !isHaveMode)) {
     imageClassName = imageClassName.concat(" image-disabled");
   }
 
@@ -21,8 +22,16 @@ const Card = ({
   const showRedPlus = !haveSticker;
   const showGoldPlus = !haveGold;
 
+  const showDuplicatedMinus = duplicated > 0;
+
   return (
     <div className="card">
+      {!isHaveMode && (
+        <>
+          <text>{duplicated}</text>
+          <br></br>{" "}
+        </>
+      )}
       <img
         className={imageClassName}
         //onClick={(e) => handleOnClick(e, { index })}
@@ -42,32 +51,67 @@ const Card = ({
         </div>
       )}
       <div className="icons-container">
-        <img
-          className="plus-icon"
-          onClick={() =>
-            changeStickerStatus({
-              id,
-              countryIndex,
-              isGold: false,
-              isAdd: showRedPlus,
-            })
-          }
-          src={showRedPlus ? plusRed : minusRed}
-          alt={`${showRedPlus ? "add" : "remove"} sticker`}
-        ></img>
-        <img
-          className="plus-icon gold-icon"
-          onClick={() =>
-            changeStickerStatus({
-              id,
-              countryIndex,
-              isGold: true,
-              isAdd: showGoldPlus,
-            })
-          }
-          src={showGoldPlus ? plusGold : minusGold}
-          alt={`${showGoldPlus ? "add" : "remove"} gold sticker`}
-        ></img>
+        {isHaveMode ? (
+          <>
+            <img
+              className="plus-icon"
+              onClick={() =>
+                changeStickerStatus({
+                  id,
+                  countryIndex,
+                  isGold: false,
+                  isAdd: showRedPlus,
+                })
+              }
+              src={showRedPlus ? plusRed : minusRed}
+              alt={`${showRedPlus ? "add" : "remove"} sticker`}
+            ></img>
+            <img
+              className="plus-icon gold-icon"
+              onClick={() =>
+                changeStickerStatus({
+                  id,
+                  countryIndex,
+                  isGold: true,
+                  isAdd: showGoldPlus,
+                })
+              }
+              src={showGoldPlus ? plusGold : minusGold}
+              alt={`${showGoldPlus ? "add" : "remove"} gold sticker`}
+            ></img>
+          </>
+        ) : (
+          <>
+            {showDuplicatedMinus && (
+              <img
+                className="plus-icon"
+                onClick={() =>
+                  changeStickerStatus({
+                    id,
+                    countryIndex,
+                    isAdd: false,
+                    isDuplicated: true,
+                  })
+                }
+                src={minusRed}
+                alt={"decrement duplicated sticker"}
+              ></img>
+            )}
+            <img
+              className="plus-icon"
+              onClick={() =>
+                changeStickerStatus({
+                  id,
+                  countryIndex,
+                  isAdd: true,
+                  isDuplicated: true,
+                })
+              }
+              src={plusRed}
+              alt={"increment duplicated sticker"}
+            ></img>
+          </>
+        )}
       </div>
     </div>
   );

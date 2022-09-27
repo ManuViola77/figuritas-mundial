@@ -106,14 +106,16 @@ export const getFilteredData = (
   oldData,
   {
     country: countryFilter = "",
+    duplicatedOption = "todas",
     haveOption = "todas",
+    modeOption = "have",
     name: nameFilter = "",
     id: idFilter,
   }
 ) =>
   oldData.data.map((countryItem = [], index) => {
     const filteredData = countryItem.filter((item) => {
-      const { have, haveGold, name, id } = item;
+      const { have, haveGold, name, id, duplicated } = item;
 
       const country = oldData.countryMapping[index];
       const matchCountry =
@@ -139,7 +141,22 @@ export const getFilteredData = (
           break;
       }
 
-      const isMatch = matchCountry && matchHave && matchName && matchId;
+      let matchDuplicated = true;
+      switch (duplicatedOption) {
+        case "no":
+          matchDuplicated = !duplicated;
+          break;
+        case "si":
+          matchDuplicated = duplicated > 0;
+          break;
+        default:
+          matchDuplicated = true;
+          break;
+      }
+
+      const matchMode = modeOption === "have" ? matchHave : matchDuplicated;
+
+      const isMatch = matchCountry && matchMode && matchName && matchId;
 
       return isMatch ? item : null;
     });
