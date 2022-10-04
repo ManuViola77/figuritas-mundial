@@ -87,6 +87,11 @@ const List = () => {
             onChange={(event) => setFilter("country", event.target.value)}
             label="Pais"
           ></Input>
+          <Input
+            value={getFilter("id")}
+            onChange={(event) => setFilter("id", event.target.value)}
+            label="Lugar (#)"
+          ></Input>
           <div>
             <label className="radio-button-label">Modo:</label>
             <RadioButtonRN

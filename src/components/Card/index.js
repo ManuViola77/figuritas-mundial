@@ -6,6 +6,8 @@ import plusGold from "../../assets/icons/plusGold.png";
 import plusRed from "../../assets/icons/plusRed.png";
 import Sparkle from "../Sparkle";
 
+const getGoldIds = [1, 4, 5, 8];
+
 const Card = ({
   item: { id, image, have, haveGold, name, duplicated } = {},
   country,
@@ -24,11 +26,21 @@ const Card = ({
 
   const showDuplicatedMinus = duplicated > 0;
 
+  const couldBeGold = getGoldIds.includes(id) && !haveGold;
+
   return (
     <div className="card">
       {!isHaveMode && (
         <>
           <text>{duplicated}</text>
+          {couldBeGold && <text>Dorada </text>}
+          <br></br>{" "}
+        </>
+      )}
+      {isHaveMode && (
+        <>
+          {/* <text>{couldBeGold ? "Dorada" : ""}</text> */}
+          {id}
           <br></br>{" "}
         </>
       )}

@@ -123,7 +123,7 @@ export const getFilteredData = (
         !countryFilter;
       const matchName =
         name.toLowerCase().includes(nameFilter.toLowerCase()) || !nameFilter;
-      const matchId = id === idFilter || !idFilter;
+      const matchId = id.toString() === idFilter || !idFilter;
 
       let matchHave = true;
       switch (haveOption) {
